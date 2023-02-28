@@ -72,9 +72,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Midjourney',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Midjourney指南',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -91,8 +91,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '使用文档',
-                to: '/docs/Midjourney快速指南',
+                label: 'Midjourney',
+                to: '/docs/Midjourney',
               },
             ],
           },
