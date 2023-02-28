@@ -1,60 +1,62 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [docs.midjourney.com](https://docs.midjourney.com/docs/quick-start)
 
-> Learn about Midjourney model versions and the latest V4 release which includes advanced functionality......
+>了解Midjourney模型版本和最新的V4版本，它包含了先进的功能......
 
-#### Learn how to use the Midjourney Bot on Discord to create custom images from simple text prompts.
+#### 学习如何使用Midjourney机器人在Discord上通过简单的文本提示创建自定义图片。
 
-Code of Conduct
+约定俗称的规则
 
-Don't be a jerk.  
-Don't use our tools to make images that could inflame, upset, or cause drama. That includes gore and adult content.  
-Be respectful to other people and the team.
+请保持友善和礼貌。  
+请不要利用我们的工具制作可能引起争端、不安或骚动的图片。这包括暴力和成人内容。  
+请尊重其他用户和我们的团队。
 
 * * *
 
-**1:** Join the Discord
+**1:** 使用Discord
 -----------------------
 
-Go to Midjourney.com, select **Join the Beta**, or go directly to the [Midjourney Discord](https://discord.gg/midjourney).
+请访问 Midjourney.com, 选择 **Join the Beta**, 或者直接访问 [Midjourney Discord](https://discord.gg/midjourney).
 
-Before joining the Midjourney Discord server, you must have a Discord login.  
-[Learn how to create one here](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started).
+在加入 Midjourney 的 Discord 服务器之前，你必须有一个 Discord 账号。  
+[点击这里了解如何创建一个账号](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started).
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Homepage.png)
 
-**2:** Find a _Newbies_ Channel
+**2:** 加入一个  _Newbies（新手）_ 频道
 -------------------------------
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_NewbiesChannel.png)
 
-### On the Midjourney Official Server
+### Midjourney官方服务区
 
-Select any `newbies-#` channel visible in the left sidebar.
+在左侧边栏中选择任意一个 `newbies-#（新手频道）`.
 
-### On Other Servers
+### 其他服务器
 
-You can generate images with the Midjourney Bot on any server that has invited the Bot. Look for instructions on your server on where to use the Bot.
+你可以在任何已经邀请了Midjourney Bot的服务区上生成图像。在你自己的服务区上查看关于使用机器人的说明。
 
-**3:** Use the /imagine Command
+**3:** 使用 /imagine 指令
 -------------------------------
 
-### About Discord Commands
+###  Discord 指令
 
-Interact with the Midjourney Bot on Discord using a Command. Commands are used to create images, change default settings, monitor user info, and perform other helpful tasks. The `/imagine` command generates a unique image from a short text description (known as a Prompt).
+在Discord上使用指令与Midjourney Bot互动。指令用于创建图像、更改默认设置、监听用户信息以及执行其他有用的任务。`/imagine`命令根据简短的文本描述（称为Prompt）生成唯一的图像。
 
-### Using /imagine
+### 使用 /imagine
 
-1.  Type `/imagine prompt:` or select the `/imagine` command from the slash commands pop-up.
-2.  Type a description of the image you want to create in the `prompt` field.
-3.  Click return to send your message.
+1.  输入 `/imagine prompt:` 或者从`\ `指令弹框选择 `/imagine` 指令.
+2.  请在`prompt`字段中输入一个简短而具体的描述.
+3.  按下回车键发送消息指令.
 
-Respect the [Community Guidelines](https://docs.midjourney.com/community-guidelines). Community guidelines apply wherever the Midjourney Bot is used.
+遵守Midjourney社区准则的信息。Midjourney社区准则旨在保持Midjourney平台的友好和安全。社区准则适用于任何使用Midjourney Bot的地方，包括Discord、Twitter和其他社交媒体。
+
+如果您想要了解更多关于社区准则的内容，请点击链接查看详细的文档 [Community Guidelines](https://docs.midjourney.com/community-guidelines).
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagineCommand.gif)
 
-If you don't see a pop-up when typing the `/imagine` command, try logging out, updating the Discord app, and logging back in.
 
-Commands only work in bot Channels. Commands will not work in regular channels like #trial-support.
+这是一些关于如何解决使用`/imagine` 指令时遇到的问题的建议。如果您在输入`/imagine` 指令时没有看到弹出窗口，请尝试退出登录，更新Discord应用程序，然后重新登录。
+
+值得注意的是， 指令只能在专门的bot频道中使用。命令在普通的频道中是无效的，例如`#trial-support` 。
 
 **4:** Processes the Job
 ------------------------
