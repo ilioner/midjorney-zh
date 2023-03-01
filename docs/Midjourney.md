@@ -114,11 +114,6 @@ Web：在[Midjourney.com](https://www.midjourney.com/home/)上打开生成的图
 **7:** 保存你的图片
 ----------------------
 
-Click on the image to open it to full size, and then right-click and choose `Save image`. On mobile, long tap the image and then tap the download icon in the top right corner.
-
-All images are immediately available to view on [midjourney.com/app](https://www.midjourney.com/app/)  
-`Sign In with Discord` to view.
-
 点击图像会打开全尺寸预览，然后单击右键并选择`Save image`。在移动设备上，可以长按图像，然后点击右上角的下载图标。
 
 所有图像都可以立即`使用Discord登录`在[midjourney.com/app](https://www.midjourney.com/app/)上查看。。
