@@ -136,38 +136,47 @@ Web：在[Midjourney.com](https://www.midjourney.com/home/)上打开生成的图
 下一步
 ----------
 
-### Work in Your Direct Messages
+### 在私信中进行
 
-Public channels move too fast? Use the `/imagine` command while direct messaging with the Midjourney Bot. Images made within your direct messages are still subject to content and moderation rules and are visible on the Midjourney website.
+公共频道上消息刷的太快吗? 你可以在私信Midjourney Bot使用`/imagine`命令.私信中创建的图像仍然受到内容和管理规则的限制，并且可以在Midjourney网站上看到.
 
-### Learn More About Prompts
+### 了解更多的Prompts
 
-[Learn the basics of writing prompts](https://docs.midjourney.com/prompts), or [explore how descriptions of artistic mediums, locations, and time periods change an image](https://docs.midjourney.com/explore-prompting).
+Prompts 是 Midjourney Bot 中的一种指令，用于启动一项新的任务或创建一组图像。它们可以是一个简单的单词或短语，也可以是一组更详细的指令和参数。Midjourney Bot 会根据您提供的 Prompt 生成一个图像网格，您可以选择其中的图像并进行各种修改和操作。
 
-### Learn How to Combine Your Own Pictures
 
-[Learn how to upload and blend your own images together](https://docs.midjourney.com/v1/docs/blend) with the `/blend` command.
+[了解如何编写基础提示信息](https://docs.midjourney.com/prompts)，或者[探索如何通过艺术媒介、地点和时期的描述来改变图像](https://docs.midjourney.com/explore-prompting)。
 
-### Get Answers
+### 学习如何合并图片
 
-Need help or have questions? Try these commands:
+`/blend` 命令允许你使用 Midjourney 的 AI 图像生成将多个图像混合在一起。要使用` /blend` 命令，你需要上传至少两张图像，然后使用命令加上已上传的图像 ID，如下所示：
 
-`/help` Shows helpful basic information and tips about the Midjourney Bot.
+```type of javascript
+ /blend <image1_id> <image2_id> [options]
+```
+ 你可以在单个混合命令中使用多达10张图像。[options] 参数允许你调整混合过程中的各种设置，如混合模式、不透明度和遮罩等。
 
-`/ask` Get an answer to a question.  
+一旦你输入了带有适当图像 ID 和选项的命令，Midjourney 将生成一个新的图像，根据你指定的设置将所有上传的图像合并在一起。[学习如何上传和混合你自己的图片](https://docs.midjourney.com/v1/docs/blend)。
+
+### 获取帮助
+
+
+如果你有疑问或者需要帮助？尝试使用以下命令：
+
+`/help` 显示有关Midjourney Bot的有用基本信息和提示。
+
+`/ask` 获取问题的答案。
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Command_Ask.png)
 
-For more help, visit the [#trial-Support](https://discord.com/channels/662267976984297473/989981349777637446) channel on the Midjourney Discord.
 
-You can interact with the Midjourney Bot on Discord by typing a Command. Commands are used to create images, change default settings, monitor user info, and perform other helpful tasks.
+如果需要更多帮助，可以访问Midjourney Discord上的 [#trial-Support](https://discord.com/channels/662267976984297473/989981349777637446) 频道。
+Midjourney Bot 可以通过输入指令与其进行交互，指令可用于创建图像、更改默认设置、监视用户信息等。
 
-Midjourney Commands can be used in any Bot Channel, on private Discord servers where the Midjourney Bot has been permitted to operate, or in a direct message with the Midjourney Bot.
+Midjourney指令可以在任何Bot Channel、Midjourney被允许在私人Discord服务器的频道上运行，以及与Midjourney Bot进行的直接消息中使用。
 
-A Prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that can be compared to its training data and then used to generate an image. A well-crafted prompt can help make unique and exciting images.
+提示（Prompt）是Midjourney Bot解释为生成图像的短文本短语。Midjourney Bot将提示中的单词和短语分解成较小的片段，作为标记（tokens），这些标记可以与其训练数据进行比较，然后用于生成图像。精心制作的提示可以帮助生成独特和令人兴奋的图像。
 
-**Bot Channels** are Discord channels where the Midjourney Bot has been permitted to process Slash Commands. On the official Midjourney Discord, all channels in the **Newcomer Rooms**, **Thread Channels**, **Themed Image Gen**, and **General Image Gen** categories are Bot Channels.
-
-Was this article helpful?
+Bot频道（Bot Channels）是Midjourney Bot被允许处理斜杠指令的Discord频道。在官方的Midjourney Discord上，Newcomer Rooms，Thread Channels，Themed Image Gen 和 General Image Gen 类别中的所有频道都是Bot Channels。
 
 
 
