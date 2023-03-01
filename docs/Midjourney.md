@@ -138,7 +138,7 @@ All images are immediately available to view on [midjourney.com/app](https://www
 
 * * *
 
-Next Steps
+下一步
 ----------
 
 ### Work in Your Direct Messages
