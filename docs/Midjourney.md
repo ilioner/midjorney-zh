@@ -168,3 +168,6 @@ A Prompt is a short text phrase that the Midjourney Bot interprets to produce an
 **Bot Channels** are Discord channels where the Midjourney Bot has been permitted to process Slash Commands. On the official Midjourney Discord, all channels in the **Newcomer Rooms**, **Thread Channels**, **Themed Image Gen**, and **General Image Gen** categories are Bot Channels.
 
 Was this article helpful?
+
+
+网站原文：https://docs.midjourney.com/docs/quick-start
