@@ -170,4 +170,5 @@ A Prompt is a short text phrase that the Midjourney Bot interprets to produce an
 Was this article helpful?
 
 
-网站原文：https://docs.midjourney.com/docs/quick-start
+
+网站原文请查看：https://docs.midjourney.com/docs/quick-start
