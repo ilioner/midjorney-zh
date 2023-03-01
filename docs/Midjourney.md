@@ -166,6 +166,7 @@ Prompts 是 Midjourney Bot 中的一种指令，用于启动一项新的任务�
 `/help` 显示有关Midjourney Bot的有用基本信息和提示。
 
 `/ask` 获取问题的答案。
+
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Command_Ask.png)
 
 
