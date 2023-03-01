@@ -58,60 +58,60 @@
 
 值得注意的是， 指令只能在专门的bot频道中使用。命令在普通的频道中是无效的，例如`#trial-support` 。
 
-**4:** Processes the Job
+**4:** 任务作业
 ------------------------
 
-### The Midjourney Bot takes about a minute to generate four options.
+### Midjourney Bot 大约需要一分钟来生成四个可供选择的图像.
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImageGrid_Generation.gif)
 
-Generating an image activates the free Midjourney trial.Trial users can make roughly 25 Jobs before needing to subscribe.
 
-A Job is any action that uses the Midjourney Bot. Jobs include using the `/imagine` command to create a grid of images, upscaling images, or creating image variations, all use your free trial time.
+生成图像会激活Midjourney免费的试用。试用用户可以在需要订阅之前进行大约25次任务。
 
-Use the `/info` command to check your Fast Time Remaining to see your remaining Trial time.
+所谓任务指的是使用Midjourney Bot的任何操作。包括使用`/imagine`命令创建图像、升级图像或创建图像变体，所有这些操作都会消耗您的免费试用时间。
 
-**5:** Upscale or Create Variations
+您可以使用`/info`命令进行检查，以确定您剩余的试用时长。
+
+**5:** 升级或创建新的修改
 -----------------------------------
 
-### After the initial image grid has finished generating, two rows of buttons appear:
+### 在初始图像网格生成完成后，会出现两行按钮:
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_UX.png)
 
 `U1` `U2` `U3` `U4`
 
-U buttons [upscale](https://docs.midjourney.com/upscalers) an image generating a larger version of the selected image and adding more details.
+U按钮[升级](https://docs.midjourney.com/upscalers)图像质量，生成选定图像的较大尺寸版本并优化更多细节呈现。
 
 `V1` `V2` `V3` `V4`
 
-V buttons create slight variations of the selected grid image. Creating a variation generates a new image grid similar to the chosen image's overall style and composition.
+V按钮将对选定网格图像的进行细微变体的生成。创建变体后会生成一个新的图像网格，与所选图像的整体风格和构图相似。
 
 `🔄`
 
-The 🔄 (re-roll) reruns a Job. In this case it would rerun the original prompt producing a new grid of images.
-
+🔄（重置）重新运行一个任务。它将依托原始提示，重新生成新的图像网格。
   
 
-**6:** Rate Images
+**6:** 图片评价
 ------------------
 
-### After using upscaling an image a new set of options will appear:
+### 使用了U按钮对图像进行升级后，会出现一组新的按钮选项。
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_QuickStart_UpscaleInterface2.png)
 
 `🪄 Make Variations` `🔍 Light Upscale Redo` `🔍 Beta Upscale Redo` `↗️Web`
 
-**Make Variations:** creates a variation of the upscaled image and generates a new grid of four options.
+🪄 Make Variations：创建升级图像的变体，并生成一个新的四个选项的图像网格。
 
-**Beta/Light Upscale Redo:** redo the upscale using a different [upscaler model.](https://docs.midjourney.com/upscalers)
+Beta/Light 升级重做：使用不同的[升级模式](https://docs.midjourney.com/upscalers)重新做升级。
 
-**Web:** Open the image in your gallery on [Midjourney.com](https://www.midjourney.com/home/)
+Web：在[Midjourney.com](https://www.midjourney.com/home/)上打开生成的图像
 
 `😖` `😒` `🙂` `😍`
 
-Click a smiley button to rate any upscaled image on the [Midjourney website](https://www.midjourney.com/app/ranking/) or in Discord. Each day, the [top 1000 image raters](https://docs.midjourney.com/free-hours) receive an hour of free, Fast Mode time. Rank your work or the work of others. Rank based on your personal style and opinion. Love the look, effort, colors, concept, or theme? Please give it a 😍!
+点击[Midjourney website](https://www.midjourney.com/app/ranking/)上或Discord中的任何升级后图像上的笑脸按钮来评价。每天 [前1000个对图像评级的用户](https://docs.midjourney.com/free-hours)会获得一个小时的免费快速模式时间。可以对自己或他人的作品进行评级。也可以基于个人风格和观点进行评级。有你喜欢外观，效果，颜色，概念或主题吗？请给它一个 😍！
 
-**7:** Save Your Image
+**7:** 保存你的图片
 ----------------------
 
 Click on the image to open it to full size, and then right-click and choose `Save image`. On mobile, long tap the image and then tap the download icon in the top right corner.
@@ -119,18 +119,22 @@ Click on the image to open it to full size, and then right-click and choose `Sav
 All images are immediately available to view on [midjourney.com/app](https://www.midjourney.com/app/)  
 `Sign In with Discord` to view.
 
-**8:** Subscribe to a Plan
+点击图像会打开全尺寸预览，然后单击右键并选择`Save image`。在移动设备上，可以长按图像，然后点击右上角的下载图标。
+
+所有图像都可以立即`使用Discord登录`在[midjourney.com/app](https://www.midjourney.com/app/)上查看。。
+
+**8:** 订阅计划
 --------------------------
 
-Trial users have roughly 25 free Jobs. Jobs do not presently expire but will also not renew. To make more images use the `/subscribe` command in any Bot Channel to generate a personal link to the midjourney account page. **Do not share this personal link with others.**
+试用用户可以免费使用大约25次Jobs（操作次数）。Jobs目前不会过期，但也不会自动续订。如需生成更多图像，请在任何机器人频道中使用`/subscribe`指令来生成到midjourney账户页面的个人链接。**请不要与他人共享此个人链接**。
 
-For prices and more information go to [Subscription Plans](https://docs.midjourney.com/plans)
+获取价格和更多信息，请访问[订阅计划](https://docs.midjourney.com/plans)。
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Plan_Upgrade.png)
 
-Double Check
+有必要再次提醒下
 
-Make sure you are signing in using your existing Discord account. It is easy to accidentally create a new account.
+请确保您使用的是现有的Discord帐户进行登录。因为很容易一不小心创建一个新帐户。
 
 * * *
 
