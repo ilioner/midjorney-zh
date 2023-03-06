@@ -1,20 +1,20 @@
-Midjourney Community GuidelinesThese Terms of Service (the “Agreement”) spell out what rights you have with respect to the Service g......
 
-#### Midjourney is an open-by-default community. To keep the platform accessible and welcoming to the broadest number of users, content must be PG-13.
 
--   Be kind and respect each other and staff. Do not create images or use text prompts that are inherently disrespectful, aggressive, or otherwise abusive. Violence or harassment of any kind will not be tolerated.
--   No adult content or gore. Please avoid making visually shocking or disturbing content. We will block some text inputs automatically.
--   Do not publicly repost the creations of others without their permission.
--   Be careful about sharing. It’s OK to share your creations outside of the Midjourney community, but please consider how others might view your content.
--   Any violations of these rules may lead to bans from our services. We are not a democracy. Behave respectfully or lose your rights to use the Service.
+#### Midjourney是一个默认开放的社区。为了平台能够尽可能多的吸引和欢迎用户，内容必须符合PG-13标准。
 
-These rules apply to all content, including images made in private servers, using Private Mode, and in direct messages with the Midjourney Bot. See the Discord [#rules](https://discord.com/channels/662267976984297473/964598182225002516) channel for the most up-to-date information.
+-   友善相待，尊重彼此和工作人员。不要制作具有不尊重、攻击性或者其他形式的虐待性质的图像或文本提示。任何形式的暴力或骚扰都不会被容忍。
+-   不允许成人内容或血腥内容。请避免制作视觉上令人震惊或者令人不安的内容。我们将自动屏蔽一些文本输入。
+-   不要在未得到他们的许可的情况下公开转载他人的作品。
+-   分享的内容时需要注意。您可以在Midjourney社区之外分享您的作品，但要考虑他人会如何看待您的内容。
+-   任何违反这些规则的行为可能会导致被禁止使用我们的服务。请尊重行为规范，否则您将失去使用该服务的权利。
 
-## Notes
+这些规则适用于所有内容，包括在私人服务器、私人模式下制作的图像以及在与Midjourney Bot进行的直接对话中制作的图像。请参见Discord [#rules](https://discord.com/channels/662267976984297473/964598182225002516) 频道以获取最新信息。
 
-### What is Considered Gore?
+## 备注
 
-Gore includes images of detached body parts of humans or animals, cannibalism, blood, violence (images of shooting or bombing someone, for instance), deformed bodies, severed limbs, pestilence, etc.
+### 血腥或者不适的内容包含那些?
+
+人或动物的身体分离部位的图像、食人、血腥、暴力（例如射击或炸弹爆炸的图像）、畸形身体、截肢、瘟疫等。
 
 ### What's NSFW or Adult Content?
 
