@@ -14,46 +14,52 @@
 
 ### 血腥或者不适的内容包含那些?
 
-人或动物的身体分离部位的图像、食人、血腥、暴力（例如射击或炸弹爆炸的图像）、畸形身体、截肢、瘟疫等。
+人或动物的断体图像、食人、血腥、暴力（例如射击或炸弹爆炸的图像）、畸形身体、截肢、瘟疫等。
 
-### What's NSFW or Adult Content?
+### 什么是 NSFW（不合时宜的内容） 或成人内容？
 
-Avoid nudity, sexual organs, fixation on naked breasts, people in showers or on toilets, sexual imagery, fetishes, etc.
+请避免裸露、性器官，露胸、淋浴或如厕的人物、性暗示、恋物癖等图像。
 
-### Other Offensive Content
+###  其他令人反感的内容
 
-Other things may be deemed offensive or abusive because they can be viewed as racist, homophobic, disturbing, or in some way derogatory to a community. This includes naked children and offensive images of celebrities or public figures. Content guidelines are continually reviewed and may be modified as the Midjourney community grows.
+包含可能被视为具有种族主义、恐同、令人不安或以某种方式贬低社区的性质而被视为具有冒犯性或滥用性的内容。包括裸露的儿童和针对名人或公众人物的攻击性图像。Midjourney社区的内容指南会不断地进行审核和更新。
 
-## Automatically Banned Keywords
+##  关键词自动屏蔽
 
-Finding a balance between facilitating artistic expression and creating a safe and welcoming community for a broad group of users is challenging. Everyone has a right to an opinion about what images are beautiful, intriguing, or inspiring, and there are as many individual interpretations of what content is offensive, inappropriate, or harmful. We also recognize that art has a long history of pushing the status quo to challenge social conventions, inspire discussion, and spark change.
 
-When deciding on our community guidelines for Midjourney, we considered many factors. As a new and rapidly developing technology, it is important to consider how the broader public will perceive and be introduced to this technology. Midjourney is a more participatory image-making tool than a paintbrush or pencil. The Midjourney team does not wish to participate in creating pornographic, offensive, or harmful images. Most important, however, was our desire to create a welcoming and inclusive community for all users. To that end, we have established guidelines prohibiting certain behaviors and language on our platform. One aspect of these guidelines is banning words and phrases that have been used in harmful or offensive ways toward members of our community.
+促进艺术呈现和创建一个对广泛用户群体安全和友好的社区之间寻求平衡是具有挑战性的。每个人都有权对美丽的、引人入胜或启发人心的图像有自己的看法，对于哪些内容是冒犯、不当或有害的也有许多个体解释。我们也认识到艺术对社会常识的挑战、启发讨论和激发变革方面有着悠久的历史。
 
-We understand that the balance we decided on and the decision to ban certain words may not be popular with everyone. Still, we hope you will respect our efforts to create a positive and supportive community for all. We encourage you to express yourself creatively but to do so in a way that is respectful and considerate of others.
+制定 Midjourney 社区准则时，我们考虑了许多因素。作为一项新的快速发展的技术，最看重的是考虑更广泛的公众如何看待和介绍这项技术。Midjourney 是一个更具参与性的图像制作工具，而不仅仅是一支画笔或铅笔。Midjourney 团队不希望参与创建色情、冒犯性或有害的图像。我们的最大愿望是创建一个对所有用户都友好和包容的社区，为此我们在我们的平台上制定了禁止某些行为和语言的准则。其中一项准则是禁止那些曾经以有害或冒犯的方式针对我们社区成员使用的词语和短语。
 
-### Why is _This_ Word Banned?
+虽然我们明白这些所做的平衡以及禁止某些词汇的决定可能不会得到所有人的欢迎。但是，我们希望您尊重我们为所有人创建积极和支持性社区的努力。我们鼓励你有创意地表达自己，但请以一种尊重和考虑他人的方式进行。
 
-Some words and phrases are banned because they produce content that is widely considered inappropriate, offensive, or harmful. Some banned words seem safe but consistently produce images that violate the content guidelines.
+### 为什么这个词被禁止?
 
-Remember that the Midjourney Bot does not understand language the way a human does. For example, the peach emoji 🍑 is currently a banned word, and the prompt, "beautiful 🍑 orchard" would trigger the banned word filter. No one thinks a beautiful orchard of peach trees is offensive or not safe to view at work. However, the 🍑 emoji is also common slang for butts and is often associated with pictures that are NSFW so the actual results of prompting a "beautiful 🍑 orchard" are more problematic than you would initially think.
+为什么这个词被禁止？
+
+一些词语和短语被禁止是因为它们产生的内容被广泛认为是不适当、冒犯或有害的。有些被禁止的词语看起来很安全，但它们所产生的图片却违反了内容准则。
+
+Midjourney Bot 并不能像人一样理解语言。例如，桃子 emoji 🍑 目前是一个被禁止的词语，而提示词语 "beautiful 🍑 orchard" 将会触发禁止词语过滤器。没人会认为桃树林是冒犯或不适合在工作中查看的。然而，🍑 emoji 在某些俚语中也指屁股，也常与不适合的场合查看的图片相关联，因此“beautiful 🍑 orchard”这个提示词的实际结果可能比起初看来更具问题性。
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_banned_prompt_popup.png)
 
-Users who repeatedly violate the terms of service may be warned by a community moderator, given a time-out from accessing the bot, or be blocked from the service.
 
-## Self-Policing and Reporting
+如果用户反复违反服务条款，可能会面临被社区管理员警告，被禁止访问机器人，或被禁止使用该服务的风险。
 
-Occasionally prompts will unintentionally produce non-PG-13 content. Please self-police these images by using the ❌ emoji reaction or by **right-clicking** selecting **Apps** and then clicking `Cancel Job` to delete the image.
+##  自我监管和举报
 
-Users may flag any image for moderator review by **right-clicking** selecting **Apps**, and then clicking `Report Job` within discord or the website by selecting `...` under an image and clicking `Report`.
 
-##### Report Images in Discord
+有时，提示会无意中产生非PG-13标准的内容。请使用❌表情符号或右键单击选择**Apps** ，然后单击 `Cancel Job`来删掉这些图片。
+
+
+用户可以通过在Discord中右键单击选择**Apps**,，然后单击 `Report Job` 来标记任何图像以供管理员审核，或者通过在网站上选择图像下方的 `...` 并单击`Report`来进行举报。
+
+##### 在 Discord中举报图片
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Report_App.png)
 
-##### Report Images on the Website
+##### 在网页中举报图片
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Report_web.png)
 
-Was this article helpful?
+原文 https://docs.midjourney.com/docs/community-guidelines
