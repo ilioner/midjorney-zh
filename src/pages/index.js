@@ -9,7 +9,7 @@ import styles from './index.module.css';
 import useTypewriter from "react-typewriter-hook"
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  const talk = useTypewriter({siteConfig.tagline});
+  const talk = useTypewriter('AI，Midjourney，Prompt');
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
