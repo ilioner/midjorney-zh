@@ -6,14 +6,15 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
-
+import useTypewriter from "react-typewriter-hook"
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const talk = useTypewriter({siteConfig.tagline});
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">{talk}</p>
         {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
