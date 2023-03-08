@@ -66,8 +66,10 @@ const config = {
       navbar: {
         title: 'Midjourney中文社区',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Midjourney中文社区',
+          // src: 'img/logo.svg',
+          
+          src: 'img/micon.png',
         },
         items: [
           {

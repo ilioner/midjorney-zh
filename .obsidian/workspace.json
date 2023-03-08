@@ -140,6 +140,10 @@
   },
   "active": "d56e4b77aa71bb74",
   "lastOpenFiles": [
+    "static/img/favicon.ico",
+    "static/img/micon的副本.png.sb-fd40c0e1-roET8F",
+    "static/img/micon的副本.png",
+    "static/img/micon.png",
     "docs/tutorial-basics/congratulations.md",
     "docs/下一步/Prompts-指令.md",
     "docs/下一步/Blend-叠加.md",
@@ -153,7 +157,6 @@
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/gyp-mac-tool",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/fse.target.mk",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/config.gypi",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/binding.Makefile",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
     "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
     "node_modules/react-typewriter-effect/node_modules/terser/README.md",
@@ -175,7 +178,6 @@
     "node_modules/nan/doc/string_bytes.md",
     "node_modules/nan/doc/script.md",
     "node_modules/nan/doc/scopes.md",
-    "node_modules/nan/doc/persistent.md",
     "node_modules/stream-http/test/server/static/browserify.png",
     "node_modules/unique-filename/coverage/sort-arrow-sprite.png",
     "node_modules/@docusaurus/logger/demo.png",
@@ -183,8 +185,6 @@
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
     "node_modules/@docusaurus/logger/coverage/lcov-report/sort-arrow-sprite.png",
-    "node_modules/@docusaurus/logger/coverage/lcov-report/favicon.png",
-    "node_modules/detect-port-alt/logo.png",
-    "node_modules/serve-index/public/icons/page_world.png"
+    "node_modules/@docusaurus/logger/coverage/lcov-report/favicon.png"
   ]
 }
