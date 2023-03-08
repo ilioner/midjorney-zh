@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/toptwo.svg').default,
     description: (
       <>
-“Prompt”是指提供给Midjourney Bot解读来生成图像的短文本短语。Midjourney Bot将提示中的单词和短语分解成更小的部分，我们称之为tokens，它可以与训练数据进行比较，然后生成图像。精心设计过的提示可以帮助你生成独特且惊艳的图像。
+Midjourney Bot将提示中的单词和短语分解成更小的部分来生成图像。精心设计过的提示可以帮助你生成独特且惊艳的图像。
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/topthree.svg').default,
     description: (
       <>
-        MidJourney可以为许多用途提供视觉辅助，例如网站设计、广告、社交媒体营销、出版等。MidJourney生成的图像可能需要进行一定的修改和优化，以便与用户的具体需求和品牌形象相符。
+        MidJourney可以为许多用途提供视觉辅助，例如网站设计、广告、社交媒体营销、出版等。
       </>
     ),
   },
