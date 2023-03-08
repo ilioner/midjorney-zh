@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '通过文字生成图片的AI',
     Svg: require('@site/static/img/topone.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        MidJourney使用深度学习技术来分析文本提示中的情感、场景和概念，并根据这些信息生成相应的图像。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Prompts',
     Svg: require('@site/static/img/toptwo.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+“Prompt”是指提供给Midjourney Bot解读来生成图像的短文本短语。Midjourney Bot将提示中的单词和短语分解成更小的部分，我们称之为tokens，它可以与训练数据进行比较，然后生成图像。精心设计过的提示可以帮助你生成独特且惊艳的图像。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '真正的AI创作',
     Svg: require('@site/static/img/topthree.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        MidJourney可以为许多用途提供视觉辅助，例如网站设计、广告、社交媒体营销、出版等。MidJourney生成的图像可能需要进行一定的修改和优化，以便与用户的具体需求和品牌形象相符。
       </>
     ),
   },
