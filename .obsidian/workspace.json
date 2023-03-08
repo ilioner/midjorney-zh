@@ -11,12 +11,8 @@
             "id": "d56e4b77aa71bb74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Midjourney.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Midjourney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Midjourney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Midjourney.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,51 +140,51 @@
   },
   "active": "d56e4b77aa71bb74",
   "lastOpenFiles": [
-    "node_modules/watchpack/README.md",
-    "node_modules/express/lib/request.js",
-    "node_modules/@webassemblyjs/utf8/test/index.js",
-    "node_modules/@webassemblyjs/utf8/test",
-    "node_modules/@discoveryjs/json-ext/src/stringify-stream.js",
-    "node_modules/execa/index.d.ts",
-    "node_modules/human-signals/build/src/signals.js.map",
-    "node_modules/websocket-extensions/CHANGELOG.md",
-    "node_modules/selfsigned/index.d.ts",
-    "node_modules/eventemitter3/README.md",
-    "node_modules/webpack-bundle-analyzer/node_modules/commander/typings/index.d.ts",
-    "node_modules/webpack-bundle-analyzer/node_modules/commander/typings",
-    "node_modules/webpack-bundle-analyzer/node_modules/commander/esm.mjs",
-    "node_modules/@sindresorhus/is/readme.md",
-    "node_modules/@szmarczak/http-timer/README.md",
-    "node_modules/dot-prop/readme.md",
-    "node_modules/global-dirs/readme.md",
-    "node_modules/write-file-atomic/CHANGELOG.md",
-    "node_modules/defer-to-connect/README.md",
-    "node_modules/registry-url/readme.md",
-    "node_modules/clone-response/README.md",
-    "node_modules/p-cancelable/readme.md",
-    "node_modules/http-cache-semantics/README.md",
-    "node_modules/axios/lib/helpers/README.md",
-    "node_modules/axios/lib/env/README.md",
-    "node_modules/axios/lib/core/README.md",
-    "node_modules/axios/lib/adapters/README.md",
-    "node_modules/acorn-walk/README.md",
-    "node_modules/@sideway/address/LICENSE.md",
-    "node_modules/body-parser/HISTORY.md",
-    "node_modules/selfsigned/README.md",
-    "node_modules/ipaddr.js/README.md",
-    "node_modules/ansi-html-community/README.md",
-    "node_modules/serve-index/public/icons/page_world.png",
-    "node_modules/serve-index/public/icons/page_word.png",
-    "node_modules/serve-index/public/icons/page_white_zip.png",
-    "node_modules/serve-index/public/icons/page_white_wrench.png",
-    "node_modules/serve-index/public/icons/page_white_world.png",
-    "node_modules/serve-index/public/icons/page_white_word.png",
-    "node_modules/serve-index/public/icons/page_white_width.png",
-    "node_modules/serve-index/public/icons/page_white_visualstudio.png",
-    "node_modules/serve-index/public/icons/page_white_vector.png",
-    "node_modules/serve-index/public/icons/page_white_tux.png",
-    "node_modules/multicast-dns/README.md",
-    "node_modules/dns-packet/README.md",
-    "node_modules/detect-port-alt/node_modules/debug/CHANGELOG.md"
+    "docs/tutorial-basics/congratulations.md",
+    "docs/下一步/Prompts-指令.md",
+    "docs/下一步/Blend-叠加.md",
+    "docs/Midjourney.md",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins/python3",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/fse.node",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/gyp-mac-tool",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/fse.target.mk",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/config.gypi",
+    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/binding.Makefile",
+    "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
+    "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
+    "node_modules/react-typewriter-effect/node_modules/terser/README.md",
+    "node_modules/react-typewriter-effect/node_modules/terser/PATRONS.md",
+    "node_modules/react-typewriter-effect/node_modules/terser/CHANGELOG.md",
+    "node_modules/react-typewriter-effect/node_modules/acorn/README.md",
+    "node_modules/react-typewriter-effect/node_modules/acorn/CHANGELOG.md",
+    "node_modules/pako/README.md",
+    "node_modules/pako/CHANGELOG.md",
+    "node_modules/buffer/README.md",
+    "node_modules/buffer/AUTHORS.md",
+    "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md",
+    "node_modules/nan/README.md",
+    "node_modules/react-typewriter-effect/node_modules/react/README.md",
+    "node_modules/nan/LICENSE.md",
+    "node_modules/nan/CHANGELOG.md",
+    "node_modules/nan/doc/v8_misc.md",
+    "node_modules/nan/doc/v8_internals.md",
+    "node_modules/nan/doc/string_bytes.md",
+    "node_modules/nan/doc/script.md",
+    "node_modules/nan/doc/scopes.md",
+    "node_modules/nan/doc/persistent.md",
+    "node_modules/stream-http/test/server/static/browserify.png",
+    "node_modules/unique-filename/coverage/sort-arrow-sprite.png",
+    "node_modules/@docusaurus/logger/demo.png",
+    "node_modules/renderkid/docs/images/usage.png",
+    "node_modules/renderkid/docs/images/display.png",
+    "node_modules/renderkid/docs/images/bullets-1.png",
+    "node_modules/@docusaurus/logger/coverage/lcov-report/sort-arrow-sprite.png",
+    "node_modules/@docusaurus/logger/coverage/lcov-report/favicon.png",
+    "node_modules/detect-port-alt/logo.png",
+    "node_modules/serve-index/public/icons/page_world.png"
   ]
 }
