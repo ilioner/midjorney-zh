@@ -140,6 +140,12 @@
   },
   "active": "d56e4b77aa71bb74",
   "lastOpenFiles": [
+    "static/img/top3.png",
+    "static/img/top2.png",
+    "static/img/top1.png",
+    "static/img/tywin_Reunion_of_man_team_squad_cyberpunk_abstract_full_hd_rend_50873796-2c85-49c1-841b-b023bc327cd9.png",
+    "static/img/tywin_A_Huge_Vietnam_Old_Apartment_Building_by_Howls_Moving_Cas_4f1e1091-ca70-45a4-a69b-7028cf0392df.png",
+    "static/img/tywin_A_cartoon_style_robot_horse_no_plants_ar_32_video__8b99c66f-8082-404f-91ac-6a8134775ce0.png",
     "static/img/favicon.ico",
     "static/img/micon的副本.png.sb-fd40c0e1-roET8F",
     "static/img/micon的副本.png",
@@ -156,7 +162,6 @@
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/gyp-mac-tool",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/fse.target.mk",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/config.gypi",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
     "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
     "node_modules/react-typewriter-effect/node_modules/terser/README.md",
@@ -180,11 +185,6 @@
     "node_modules/nan/doc/scopes.md",
     "node_modules/stream-http/test/server/static/browserify.png",
     "node_modules/unique-filename/coverage/sort-arrow-sprite.png",
-    "node_modules/@docusaurus/logger/demo.png",
-    "node_modules/renderkid/docs/images/usage.png",
-    "node_modules/renderkid/docs/images/display.png",
-    "node_modules/renderkid/docs/images/bullets-1.png",
-    "node_modules/@docusaurus/logger/coverage/lcov-report/sort-arrow-sprite.png",
-    "node_modules/@docusaurus/logger/coverage/lcov-report/favicon.png"
+    "node_modules/@docusaurus/logger/demo.png"
   ]
 }
