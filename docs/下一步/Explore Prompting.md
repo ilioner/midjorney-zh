@@ -69,29 +69,33 @@ More precise words and phrases will help create an image with exactly the right 
 
 prompt example: `/imagine prompt` `<style> sketch of a cat`
 
-**Life Drawing**
+<table border="0">
+  <tr>
+    <th>Life Drawing</th>
+    <th>Continuous Line</th>
+    <th>Loose Gestural</th>
+    <th>Blind Contour</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_lifeDrawingSketch.jpeg" alt="Life Drawing" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_continuousLine.jpeg" alt="Continuous Line" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_looseGesturalSketch.jpeg" alt="Loose Gestural" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blindContour.jpeg" alt="Blind Contour" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <th>Value Study</th>
+    <th>Charcoal Sketch</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_valueStudy.jpeg" alt="Value Study" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_Charcoal.jpeg" alt="Charcoal Sketch" width="200" height="200" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_lifeDrawingSketch.jpeg)
-
-**Continuous Line** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_continuousLine.jpeg)
-
-**Loose Gestural** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_looseGesturalSketch.jpeg)
-
-**Blind Contour** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blindContour.jpeg)
-
-**Value Study**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_valueStudy.jpeg)
-
-**Charcoal Sketch** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_Charcoal.jpeg)
 
 * * *
 
