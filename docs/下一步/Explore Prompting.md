@@ -10,53 +10,54 @@ Break out the paint, crayons, scratchboard, printing presses, glitter, ink, and 
 
 prompt example: `/imagine prompt` `<any art style> style cat`
 
-**Block Print**
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Blockprint_Cat.jpeg)
+<table border="0">
+  <tr>
+    <th>Block Print</th>
+    <th>Folk Art</th>
+    <th>Cyanotype</th>
+    <th>Graffiti</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Blockprint_Cat.jpeg" alt="Block Print" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Folkart.jpeg" alt="Folk Art" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Cyanotype.jpeg" alt="Cyanotype" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Graffiti.jpeg" alt="Graffiti" width="200" height="200"  /></td>
+  </tr>
+</table>
 
-**Folk Art**
+<table border="0">
+  <tr>
+    <th>Paint-by-Numbers</th>
+    <th>Risograph</th>
+    <th>Ukiyo</th>
+    <th>Pencil Sketch</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Paint-by-numbers.jpeg" alt="" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Risograph.jpeg" alt="" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_UkiyoE.jpg" alt="" width="200" height="200"  /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Pencilsketch.jpg" alt="" width="200" height="200"  /></td>
+  </tr>
+</table>
+ 
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Folkart.jpeg)
+<table border="0">
+  <tr>
+    <th>Watercolor</th>
+    <th>Pixel Art</th>
+    <th>Blacklight Painting</th>
+    <th>Cross Stitch</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_watercolor.jpeg" alt="" width="200" height="200"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_pixelArt.jpeg" alt="" width="200" height="200"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blacklight.jpeg" alt="" width="200" height="200"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_crossStitch.jpeg" alt="" width="200" height="200"></td>
+  </tr>
+</table>
 
-**Cyanotype**
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Cyanotype.jpeg)
-
-**Graffiti**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Graffiti.jpeg)
-
-**Paint-by-Numbers** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Paint-by-numbers.jpeg)
-
-**Risograph**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Risograph.jpeg)
-
-**Ukiyo-e**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_UkiyoE.jpg)
-
-**Pencil Sketch**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Pencilsketch.jpg)
-
-**Watercolor**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_watercolor.jpeg)
-
-**Pixel Art**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_pixelArt.jpeg)
-
-**Blacklight Painting** 
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blacklight.jpeg)
-
-**Cross Stitch**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_crossStitch.jpeg)
 
 * * *
 
