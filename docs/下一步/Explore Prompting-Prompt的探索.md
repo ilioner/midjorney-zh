@@ -1,22 +1,25 @@
 
 #### Even short single-word prompts will produce beautiful images in Midjourney's default style, but you can create more interesting personalized results by combining concepts like artistic medium, historical periods, location, and more.
 
+#### 即使是简短的单词提示，Midjourney的默认样式也能够生成美丽的图像，但是通过结合艺术形式、历史时期、地点等概念，您可以创建更加有趣和个性化的结果。
+
 * * *
 
-Pick A Medium
+选择一种艺术形式
 -------------
 
 Break out the paint, crayons, scratchboard, printing presses, glitter, ink, and colored paper. One of the best ways to generate a stylish image is by specifying an artistic medium.
 
 prompt example: `/imagine prompt` `<any art style> style cat`
 
+准备好颜料、蜡笔、刮画板、印刷机、闪粉、墨水和彩色纸吧！指定艺术形式是生成美图的最佳方式之一。
+
+提示示例：`/imagine prompt` `<any art style> style cat`
+
 
 <table border="0">
   <tr>
-    <th>Block Print</th>
-    <th>Folk Art</th>
-    <th>Cyanotype</th>
-    <th>Graffiti</th>
+    <th>Block Print<br>木刻版画</th> <th>Folk Art<br>民间艺术</th> <th>Cyanotype<br>青色光敏蓝印</th> <th>Graffiti<br>涂鸦艺术</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Blockprint_Cat.jpeg" alt="Block Print" width="200" height="200"  /></td>
@@ -28,10 +31,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 <table border="0">
   <tr>
-    <th>Paint-by-Numbers</th>
-    <th>Risograph</th>
-    <th>Ukiyo</th>
-    <th>Pencil Sketch</th>
+    <th>Paint-by-Numbers<br>数字油画</th> <th>Risograph<br>日光印刷</th> <th>Ukiyo<br>浮世绘</th> <th>Pencil Sketch<br>铅笔素描</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Paint-by-numbers.jpeg" alt="" width="200" height="200"  /></td>
@@ -44,10 +44,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 <table border="0">
   <tr>
-    <th>Watercolor</th>
-    <th>Pixel Art</th>
-    <th>Blacklight Painting</th>
-    <th>Cross Stitch</th>
+    <th>Watercolor<br>水彩画</th> <th>Pixel Art<br>像素艺术</th> <th>Blacklight Painting<br>黑光画</th> <th>Cross Stitch<br>十字绣</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_watercolor.jpeg" alt="" width="200" height="200" /></td>
