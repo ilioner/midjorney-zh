@@ -19,7 +19,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 <table border="0">
   <tr>
-    <th>Block Print<br>木刻版画</th> <th>Folk Art<br>民间艺术</th> <th>Cyanotype<br>青色光敏蓝印</th> <th>Graffiti<br>涂鸦艺术</th>
+    <th>Block Print<br/>木刻版画</th> <th>Folk Art<br/>民间艺术</th> <th>Cyanotype<br/>青色光敏蓝印</th> <th>Graffiti<br/>涂鸦艺术</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Blockprint_Cat.jpeg" alt="Block Print" width="200" height="200"  /></td>
@@ -31,7 +31,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 <table border="0">
   <tr>
-    <th>Paint-by-Numbers<br>数字油画</th> <th>Risograph<br>日光印刷</th> <th>Ukiyo<br>浮世绘</th> <th>Pencil Sketch<br>铅笔素描</th>
+    <th>Paint-by-Numbers<br/>数字油画</th> <th>Risograph<br/>日光印刷</th> <th>Ukiyo<br/>浮世绘</th> <th>Pencil Sketch<br/>铅笔素描</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Paint-by-numbers.jpeg" alt="" width="200" height="200"  /></td>
@@ -44,7 +44,7 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 <table border="0">
   <tr>
-    <th>Watercolor<br>水彩画</th> <th>Pixel Art<br>像素艺术</th> <th>Blacklight Painting<br>黑光画</th> <th>Cross Stitch<br>十字绣</th>
+    <th>Watercolor<br/>水彩画</th> <th>Pixel Art<br/>像素艺术</th> <th>Blacklight Painting<br/>黑光画</th> <th>Cross Stitch<br/>十字绣</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_watercolor.jpeg" alt="" width="200" height="200" /></td>
