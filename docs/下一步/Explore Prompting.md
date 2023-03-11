@@ -234,7 +234,7 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg" alt="Day Glo"/></td>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg" alt="Green Tinted"/></td>
   </tr>
-<table>
+</table>
 
 * * *
 
