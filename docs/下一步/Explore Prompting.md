@@ -197,30 +197,6 @@ Use emotion words to give characters personality.
 
 prompt example: `/imagine prompt` `<color word> colored cat`
 
-**Millennial Pink** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg)
-
-**Acid Green** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Acid_Cat.jpeg)
-
-**Desaturated** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desaturated_cat.jpeg)
-
-**Canary Yellow** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg)
-
-**Peach** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg)
-
-**Two Toned** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Twotoned_cat.jpeg)
-
-**Pastel** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Pastel_cat.jpeg)
-
-**Mauve** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg)
-
-**Ebony** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg)
-
-**Neutral** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Neutral_Cat.jpeg)
-
-**Day Glo** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg)
-
-**Green Tinted** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg)
-
   <table>
   <tr>
     <th>Millennial Pink</th>
@@ -229,10 +205,10 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <th>Canary Yellow</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg" alt="Millennial Pink cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Acid_Cat.jpeg" alt="Acid Green cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desaturated_cat.jpeg" alt="Desaturated cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg" alt="Canary Yellow cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg" alt="Millennial Pink cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Acid_Cat.jpeg" alt="Acid Green cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desaturated_cat.jpeg" alt="Desaturated cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg" alt="Canary Yellow cat"/></td>
   </tr>
   <tr>
     <th>Peach</th>
@@ -241,10 +217,10 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <th>Mauve</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg" alt="Peach cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Twotoned_cat.jpeg" alt="Two Toned cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Pastel_cat.jpeg" alt="Pastel cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg" alt="Mauve cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg" alt="Peach cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Twotoned_cat.jpeg" alt="Two Toned cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Pastel_cat.jpeg" alt="Pastel cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg" alt="Mauve cat"/></td>
   </tr>
   <tr>
     <th>Ebony</th>
@@ -253,10 +229,10 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <th>Green Tinted</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg" alt="Ebony cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Neutral_Cat.jpeg" alt="Neutral cat"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg" alt="Day Glo"></td>
-    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg" alt="Green Tinted"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg" alt="Ebony cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Neutral_Cat.jpeg" alt="Neutral cat"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg" alt="Day Glo"/></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg" alt="Green Tinted"/></td>
   </tr>
 <table>
 
