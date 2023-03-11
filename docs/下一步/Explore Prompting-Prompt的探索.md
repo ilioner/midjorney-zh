@@ -1,5 +1,4 @@
 
-#### Even short single-word prompts will produce beautiful images in Midjourney's default style, but you can create more interesting personalized results by combining concepts like artistic medium, historical periods, location, and more.
 
 #### 即使是简短的单词提示，Midjourney的默认样式也能够生成美丽的图像，但是通过结合艺术形式、历史时期、地点等概念，您可以创建更加有趣和个性化的结果。
 
@@ -7,10 +6,6 @@
 
 选择一种艺术形式
 -------------
-
-Break out the paint, crayons, scratchboard, printing presses, glitter, ink, and colored paper. One of the best ways to generate a stylish image is by specifying an artistic medium.
-
-prompt example: `/imagine prompt` `<any art style> style cat`
 
 准备好颜料、蜡笔、刮画板、印刷机、闪粉、墨水和彩色纸吧！指定艺术形式是生成美图的最佳方式之一。
 
@@ -59,19 +54,21 @@ prompt example: `/imagine prompt` `<any art style> style cat`
 
 * * *
 
-Get Specific
+精确描述
 ------------
 
-More precise words and phrases will help create an image with exactly the right look and feel.
 
-prompt example: `/imagine prompt` `<style> sketch of a cat`
+更精确的单词和短语可以帮助创造出完全符合您期望的内容和感觉的图片。
+
+例如：`/imagine prompt` `<style> sketch of a cat`
 
 <table border="0">
   <tr>
-    <th>Life Drawing</th>
-    <th>Continuous Line</th>
-    <th>Loose Gestural</th>
-    <th>Blind Contour</th>
+    <th>Life Drawing<br/>素描写生</th>
+	<th>Continuous Line<br/>连续线条</th>
+	<th>Loose Gestural<br/>大手笔风格</th>
+	<th>Blind Contour<br/>盲画</th>
+
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_lifeDrawingSketch.jpeg" alt="Life Drawing" width="200" height="200" /></td>
@@ -80,8 +77,9 @@ prompt example: `/imagine prompt` `<style> sketch of a cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blindContour.jpeg" alt="Blind Contour" width="200" height="200" /></td>
   </tr>
   <tr>
-    <th>Value Study</th>
-    <th>Charcoal Sketch</th>
+    <th>Value Study<br/>明暗对比研究</th>
+	<th>Charcoal Sketch<br/>炭笔素描</th>
+
     <th></th>
     <th></th>
   </tr>
@@ -96,12 +94,11 @@ prompt example: `/imagine prompt` `<style> sketch of a cat`
 
 * * *
 
-Time Travel
+时期设定
 -----------
 
-Different eras have distinct visual styles.
-
-prompt example: `/imagine prompt` `<decade> cat illustration`
+不同的时期有不同的视觉分格
+例如: `/imagine prompt` `<decade> cat illustration`
 
 <table border="0">
   <tr>
@@ -148,19 +145,20 @@ prompt example: `/imagine prompt` `<decade> cat illustration`
 
 * * *
 
-Emote
+情感
 -----
 
-Use emotion words to give characters personality.
+使用情感词语赋予结果个性化
 
-prompt example: `/imagine prompt` `<emotion> cat`
+例如: `/imagine prompt` `<emotion> cat`
 
 <table border="0">
   <tr>
-    <th>Determined</th>
-    <th>Happy</th>
-    <th>Sleepy</th>
-    <th>Angry</th>
+  
+    <th>Determined<br/>坚定的</th>
+    <th>Happy<br/>快乐的</th>
+    <th>Sleepy<br/>疲惫的</th>
+    <th>Angry<br/>生气的</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Determined_cat.jpeg" alt="" width="200" height="200" /></td>
@@ -169,8 +167,8 @@ prompt example: `/imagine prompt` `<emotion> cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Angry_Cat.jpeg" alt="" width="200" height="200" /></td>
   </tr>
   <tr>
-    <th>Shy</th>
-    <th>Embarrassed</th>
+    <th>Shy<br/>羞怯的</th>
+    <th>Embarrassed<br/>尴尬的</th>
     <th></th>
     <th></th>
   </tr>
@@ -187,19 +185,19 @@ prompt example: `/imagine prompt` `<emotion> cat`
 
 * * *
 
-Get Colorful
+色彩丰富
 ------------
 
-Use emotion words to give characters personality.
+使用多样的色彩描述赋予结果个性化
 
-prompt example: `/imagine prompt` `<color word> colored cat`
+例如: `/imagine prompt` `<color word> colored cat`
 
   <table>
   <tr>
-    <th>Millennial Pink</th>
-    <th>Acid Green</th>
-    <th>Desaturated</th>
-    <th>Canary Yellow</th>
+    <th>Millennial Pink<br/>千禧粉</th>
+    <th>Acid Green<br/>酸橙绿</th>
+    <th>Desaturated<br/>去饱和度的</th>
+    <th>Canary Yellow<br/>淡黄色</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg" alt="Millennial Pink cat"/></td>
@@ -208,10 +206,10 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg" alt="Canary Yellow cat"/></td>
   </tr>
   <tr>
-    <th>Peach</th>
-    <th>Two Toned</th>
-    <th>Pastel</th>
-    <th>Mauve</th>
+    <th>Peach<br/>桃红色</th>
+    <th>Two Toned<br/>双色的</th>
+    <th>Pastel<br/>淡彩色</th>
+    <th>Mauve<br/>紫灰色</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg" alt="Peach cat"/></td>
@@ -220,10 +218,10 @@ prompt example: `/imagine prompt` `<color word> colored cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg" alt="Mauve cat"/></td>
   </tr>
   <tr>
-    <th>Ebony</th>
-    <th>Neutral</th>
-    <th>Day Glo</th>
-    <th>Green Tinted</th>
+    <th>Ebony<br/>乌木色</th>
+    <th>Neutral<br/>中性的</th>
+    <th>Day Glo<br/>强光日光灯</th>
+    <th>Green Tinted<br/>绿色的色调</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg" alt="Ebony cat"/></td>
@@ -235,19 +233,19 @@ prompt example: `/imagine prompt` `<color word> colored cat`
 
 * * *
 
-Enviromental Exploration
+赋予环境描述
 ------------------------
 
-Different environments can set unique moods.
+不同的环境描述赋予不一样的基调
 
-prompt example: `/imagine prompt` `<location> cat`
+例如: `/imagine prompt` `<location> cat`
 
 <table border="0">
   <tr>
-    <th>Tundra</th>
-    <th>Salt Flat</th>
-    <th>Jungle</th>
-    <th>Desert</th>
+    <th>Tundra<br/>冻原</th>
+    <th>Salt Flat<br/>盐沼</th>
+    <th>Jungle<br/>丛林</th>
+    <th>Desert<br/>沙漠</th>
   </tr>
   <tr>
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tundra_Cat.jpg" alt="Tundra" width="200" height="200" /></td>
@@ -256,8 +254,8 @@ prompt example: `/imagine prompt` `<location> cat`
     <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desert_Cat.jpg" alt="Desert" width="200" height="200" /></td>
   </tr>
   <tr>
-    <th>Mountain</th>
-    <th>Cloud Forest</th>
+    <th>Mountain<br/>山</th>
+    <th>Cloud Forest<br/>云雾森林</th>
     <th></th>
     <th></th>
   </tr>
@@ -269,5 +267,3 @@ prompt example: `/imagine prompt` `<location> cat`
   </tr>
 </table>
 
-
-Was this article helpful?
