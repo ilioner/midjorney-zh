@@ -106,54 +106,47 @@ Different eras have distinct visual styles.
 
 prompt example: `/imagine prompt` `<decade> cat illustration`
 
-**1700s**
+<table border="0">
+  <tr>
+    <th>1700s</th>
+    <th>1800s</th>
+    <th>1900s</th>
+    <th>1910s</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1750.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1800.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1900.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1910.jpeg" alt="" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <th>1920s</th>
+    <th>1930s</th>
+    <th>1940s</th>
+    <th>1950s</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1920.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1930.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1940.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1950.jpeg" alt="" width="200" height="200" /></td>
+  </tr>
+</table>
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1750.jpeg)
-
-**1800s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1800.jpeg)
-
-**1900s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1900.jpeg)
-
-**1910s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1910.jpeg)
-
-**1920s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1920.jpeg)
-
-**1930s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1930.jpeg)
-
-**1940s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1940.jpeg)
-
-**1950s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1950.jpeg)
-
-**1960s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1960.jpeg)
-
-**1970s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1970.jpeg)
-
-**1980s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1980.jpeg)
-
-**1990s**
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1990.jpeg)
-
+<table border="0">
+  <tr>
+    <th>1960s</th>
+    <th>1970s</th>
+    <th>1980s</th>
+    <th>1990s</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1960.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1970.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1980.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1990.jpeg" alt="" width="200" height="200" /></td>
+  </tr>
+</table>
   
 
 * * *
@@ -165,17 +158,33 @@ Use emotion words to give characters personality.
 
 prompt example: `/imagine prompt` `<emotion> cat`
 
-**Determined** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Determined_cat.jpeg)
+<table border="0">
+  <tr>
+    <th>Determined</th>
+    <th>Happy</th>
+    <th>Sleepy</th>
+    <th>Angry</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Determined_cat.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Happy_Cat.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Sleepy_Cat.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Angry_Cat.jpeg" alt="" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <th>Shy</th>
+    <th>Embarrassed</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Shy_cat.jpeg" alt="" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Embarassed_Cat.jpeg" alt="" width="200" height="200" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-**Happy** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Happy_Cat.jpeg)
-
-**Sleepy** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Sleepy_Cat.jpeg)
-
-**Angry** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Angry_Cat.jpeg)
-
-**Shy** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Shy_cat.jpeg)
-
-**Embarassed** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Embarassed_Cat.jpeg)
 
   
 
@@ -212,7 +221,44 @@ prompt example: `/imagine prompt` `<color word> colored cat`
 
 **Green Tinted** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg)
 
-  
+  <table>
+  <tr>
+    <th>Millennial Pink</th>
+    <th>Acid Green</th>
+    <th>Desaturated</th>
+    <th>Canary Yellow</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg" alt="Millennial Pink cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Acid_Cat.jpeg" alt="Acid Green cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desaturated_cat.jpeg" alt="Desaturated cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg" alt="Canary Yellow cat"></td>
+  </tr>
+  <tr>
+    <th>Peach</th>
+    <th>Two Toned</th>
+    <th>Pastel</th>
+    <th>Mauve</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg" alt="Peach cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Twotoned_cat.jpeg" alt="Two Toned cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Pastel_cat.jpeg" alt="Pastel cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg" alt="Mauve cat"></td>
+  </tr>
+  <tr>
+    <th>Ebony</th>
+    <th>Neutral</th>
+    <th>Day Glo</th>
+    <th>Green Tinted</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg" alt="Ebony cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Neutral_Cat.jpeg" alt="Neutral cat"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg" alt="Day Glo"></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg" alt="Green Tinted"></td>
+  </tr>
+<table>
 
 * * *
 
@@ -223,16 +269,32 @@ Different environments can set unique moods.
 
 prompt example: `/imagine prompt` `<location> cat`
 
-**Tundra** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tundra_Cat.jpg)
+<table border="0">
+  <tr>
+    <th>Tundra</th>
+    <th>Salt Flat</th>
+    <th>Jungle</th>
+    <th>Desert</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tundra_Cat.jpg" alt="Tundra" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Saltflat_Cat.jpg" alt="Salt Flat" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Jungle_Cat.jpg" alt="Jungle" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desert_Cat.jpg" alt="Desert" width="200" height="200" /></td>
+  </tr>
+  <tr>
+    <th>Mountain</th>
+    <th>Cloud Forest</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mountain_Cat.jpg" alt="Mountain" width="200" height="200" /></td>
+    <td><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cloudforest_Cat.jpg" alt="Cloud Forest" width="200" height="200" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-**Salt Flat** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Saltflat_Cat.jpg)
-
-**Jungle** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Jungle_Cat.jpg)
-
-**Desert** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desert_Cat.jpg)
-
-**Mountain** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mountain_Cat.jpg)
-
-**Cloud Forest** ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cloudforest_Cat.jpg)
 
 Was this article helpful?
