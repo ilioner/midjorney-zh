@@ -1,7 +1,5 @@
 ---
 sidebar_position: 1
-sidebar_label: Midjourney
-sidebar_class_name: green
 ---
 
 
