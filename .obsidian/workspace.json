@@ -108,9 +108,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dcb9d33fe707f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Midjourney.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -237,8 +249,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c0da42e43359dc2a",
+  "active": "d1b915a7ef34e8c8",
   "lastOpenFiles": [
+    "docs/Midjourney.md.sb-c3ec85b6-JRK0lC",
     "docs/Community Guidelines-社区守则.md",
     "docs/Midjourney.md",
     "docs/使用指南/Upscalers.md",
@@ -283,7 +296,6 @@
     "node_modules/pako/CHANGELOG.md",
     "node_modules/buffer/README.md",
     "node_modules/buffer/AUTHORS.md",
-    "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md",
-    "node_modules/nan/README.md"
+    "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md"
   ]
 }
