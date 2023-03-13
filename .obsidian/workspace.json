@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Community Guidelines-社区守则.md",
+                "file": "docs/Midjourney.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Community Guidelines-社区守则.md",
+                "file": "docs/Midjourney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Community Guidelines-社区守则.md",
+                "file": "docs/Midjourney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Community Guidelines-社区守则.md"
+                "file": "docs/Midjourney.md"
               }
             }
           }
@@ -239,6 +239,7 @@
   },
   "active": "c0da42e43359dc2a",
   "lastOpenFiles": [
+    "docs/Community Guidelines-社区守则.md",
     "docs/Midjourney.md",
     "docs/使用指南/Upscalers.md",
     "docs/使用指南/命令/Blend.md",
@@ -283,7 +284,6 @@
     "node_modules/buffer/README.md",
     "node_modules/buffer/AUTHORS.md",
     "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md",
-    "node_modules/nan/README.md",
-    "node_modules/react-typewriter-effect/node_modules/react/README.md"
+    "node_modules/nan/README.md"
   ]
 }

@@ -5,9 +5,7 @@ sidebar_label: Midjourney
 sidebar_class_name: green
 ---
 
-# 简单教程
-
-这里是简单教程！
+# Midjourney
 
 >了解Midjourney模型版本和最新的V4版本，它包含了先进的功能......
 
