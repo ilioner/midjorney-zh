@@ -11,15 +11,106 @@
             "id": "d56e4b77aa71bb74",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "152106e3f6feb12f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "1befcd394f27d053",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/下一步/Explore Prompting.md",
+                "file": "docs/使用指南/Midjourney Model Versions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "970558659e785fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/Upscalers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940f7c0f2337e0b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/命令列表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04fda40e932dad5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/命令列表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8613b9561bb90876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/UserInfo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b608e336c2d77b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/Show Job.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0da42e43359dc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/Blend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/下一步/Explore Prompting.md",
+                "file": "docs/使用指南/命令/Blend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/下一步/Explore Prompting.md",
+                "file": "docs/使用指南/命令/Blend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/下一步/Explore Prompting.md"
+                "file": "docs/使用指南/命令/Blend.md"
               }
             }
           }
@@ -146,8 +237,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1b915a7ef34e8c8",
+  "active": "c0da42e43359dc2a",
   "lastOpenFiles": [
+    "docs/使用指南/命令/Show Job.md",
+    "docs/使用指南/命令/Blend.md",
+    "docs/使用指南/命令/UserInfo.md",
+    "docs/使用指南/命令/Settings and Presets.md",
+    "docs/使用指南/命令/命令列表.md",
+    "docs/使用指南/Upscalers.md",
+    "docs/使用指南/命令",
+    "docs/使用指南/Midjourney Model Versions.md",
+    "docs/使用指南",
+    "docs/下一步/Explore Prompting-Prompt的探索.md",
     "static/baidu_verify_codeva-K2XhvFJsib.html",
     "baidu_verify_codeva-K2XhvFJsib.html",
     "src/pages/baidu_verify_codeva-K2XhvFJsib.html",
@@ -170,9 +271,6 @@
     "docs/Midjourney.md",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins/python3",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/fse.node",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
     "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
     "node_modules/react-typewriter-effect/node_modules/terser/README.md",
@@ -186,13 +284,6 @@
     "node_modules/buffer/AUTHORS.md",
     "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md",
     "node_modules/nan/README.md",
-    "node_modules/react-typewriter-effect/node_modules/react/README.md",
-    "node_modules/nan/LICENSE.md",
-    "node_modules/nan/CHANGELOG.md",
-    "node_modules/nan/doc/v8_misc.md",
-    "node_modules/nan/doc/v8_internals.md",
-    "node_modules/nan/doc/string_bytes.md",
-    "node_modules/nan/doc/script.md",
-    "node_modules/nan/doc/scopes.md"
+    "node_modules/react-typewriter-effect/node_modules/react/README.md"
   ]
 }
