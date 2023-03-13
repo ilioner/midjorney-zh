@@ -146,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d56e4b77aa71bb74",
+  "active": "d1b915a7ef34e8c8",
   "lastOpenFiles": [
+    "static/baidu_verify_codeva-K2XhvFJsib.html",
+    "baidu_verify_codeva-K2XhvFJsib.html",
+    "src/pages/baidu_verify_codeva-K2XhvFJsib.html",
     "static/robots.txt",
     "static/img/topthree.svg",
     "static/img/toptwo.svg",
@@ -170,9 +173,6 @@
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/fse.node",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/gyp-mac-tool",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/fse.target.mk",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
     "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
     "node_modules/react-typewriter-effect/node_modules/terser/README.md",
