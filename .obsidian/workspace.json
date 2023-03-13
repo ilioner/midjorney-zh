@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/使用指南/Upscalers.md",
+                "file": "docs/Community Guidelines-社区守则.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/使用指南/Upscalers.md",
+                "file": "docs/Community Guidelines-社区守则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/使用指南/Upscalers.md",
+                "file": "docs/Community Guidelines-社区守则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/使用指南/Upscalers.md"
+                "file": "docs/Community Guidelines-社区守则.md"
               }
             }
           }
@@ -239,12 +239,13 @@
   },
   "active": "c0da42e43359dc2a",
   "lastOpenFiles": [
+    "docs/Midjourney.md",
+    "docs/使用指南/Upscalers.md",
     "docs/使用指南/命令/Blend.md",
     "docs/使用指南/命令/Show Job.md",
     "docs/使用指南/命令/UserInfo.md",
     "docs/使用指南/命令/Settings and Presets.md",
     "docs/使用指南/命令/命令列表.md",
-    "docs/使用指南/Upscalers.md",
     "docs/使用指南/命令",
     "docs/使用指南/Midjourney Model Versions.md",
     "docs/使用指南",
@@ -268,7 +269,6 @@
     "docs/tutorial-basics/congratulations.md",
     "docs/下一步/Prompts-指令.md",
     "docs/下一步/Blend-叠加.md",
-    "docs/Midjourney.md",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins/python3",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",

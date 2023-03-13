@@ -1,4 +1,14 @@
 
+---
+sidebar_position: 1
+sidebar_label: Midjourney
+sidebar_class_name: green
+---
+
+# 简单教程
+
+这里是简单教程！
+
 >了解Midjourney模型版本和最新的V4版本，它包含了先进的功能......
 
 #### 学习如何使用Midjourney机器人在Discord上通过简单的文本提示创建自定义图片。
