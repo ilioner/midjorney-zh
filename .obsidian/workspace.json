@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/使用指南/命令/Blend.md",
+                "file": "docs/使用指南/Upscalers.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/使用指南/命令/Blend.md",
+                "file": "docs/使用指南/Upscalers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/使用指南/命令/Blend.md",
+                "file": "docs/使用指南/Upscalers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/使用指南/命令/Blend.md"
+                "file": "docs/使用指南/Upscalers.md"
               }
             }
           }
@@ -239,8 +239,8 @@
   },
   "active": "c0da42e43359dc2a",
   "lastOpenFiles": [
-    "docs/使用指南/命令/Show Job.md",
     "docs/使用指南/命令/Blend.md",
+    "docs/使用指南/命令/Show Job.md",
     "docs/使用指南/命令/UserInfo.md",
     "docs/使用指南/命令/Settings and Presets.md",
     "docs/使用指南/命令/命令列表.md",

@@ -7,14 +7,13 @@ The `U1` `U2` `U3` `U4` buttons under each image grid are used to upscale the se
 
 _All sizes are for square 1:1 aspect ratios._
 
-Model Version	Starting Grid Size	V4 Default Upscaler	Detail Upscale	Light Upscale	Beta Upscale	Anime Upscale	Max Upscale**
-Default Model<br>Version 4	512 x 512	1024 x 1024 *	1024 x 1024	1024 x 1024	2048 x 2048	1024 x 1024	-
-hd	512 x 512	-	1536 x 1536*	1536 x 1536	2048 x 2048	-	1024 x 1024
-v1–v3	256 x 256	-	1024 x 1024*	1024 x 1024	1024 x 1024	1024 x 1024	1664 x 1664
-niji	512 x 512	1024 x 1024	1024 x 1024	1024 x 1024	2048 x 2048	1024 x 1024	-
-test / testp	512 x 512	-	-	-	2048 x 2048	1024 x 1024*	-
-
-<table><thead><tr><th>Model Version</th><th>Starting Grid Size</th><th>V4 Default Upscaler</th><th>Detail Upscale</th><th>Light Upscale</th><th>Beta Upscale</th><th>Anime Upscale</th><th>Max Upscale**</th></tr></thead><tbody><tr><td><strong>Default Model</strong><br data-tomark-pass=""><strong>Version 4</strong></td><td><strong>512 x 512</strong></td><td><strong>1024 x 1024</strong> *</td><td><strong>1024 x 1024</strong></td><td>1<strong>024 x 1024</strong></td><td><strong>2048 x 2048</strong></td><td><strong>1024 x 1024</strong></td><td>-</td></tr><tr><td>hd</td><td>512 x 512</td><td>-</td><td>1536 x 1536*</td><td>1536 x 1536</td><td>2048 x 2048</td><td>-</td><td>1024 x 1024</td></tr><tr><td>v1–v3</td><td>256 x 256</td><td>-</td><td>1024 x 1024*</td><td>1024 x 1024</td><td>1024 x 1024</td><td>1024 x 1024</td><td>1664 x 1664</td></tr><tr><td>niji</td><td>512 x 512</td><td>1024 x 1024</td><td>1024 x 1024</td><td>1024 x 1024</td><td>2048 x 2048</td><td>1024 x 1024</td><td>-</td></tr><tr><td>test / testp</td><td>512 x 512</td><td>-</td><td>-</td><td>-</td><td>2048 x 2048</td><td>1024 x 1024*</td><td>-</td></tr></tbody></table>
+| Model Version  | Starting Grid Size | V4 Default Upscaler | Detail Upscale | Light Upscale | Beta Upscale | Anime Upscale | Max Upscale** |
+|----------------|--------------------|---------------------|----------------|---------------|--------------|---------------|---------------|
+| Default Model<br>Version 4 | 512 x 512 | 1024 x 1024 * | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
+| hd | 512 x 512 | - | 1536 x 1536* | 1536 x 1536 | 2048 x 2048 | - | 1024 x 1024 |
+| v1–v3 | 256 x 256 | - | 1024 x 1024* | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 1664 x 1664 |
+| niji | 512 x 512 | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
+| test / testp | 512 x 512 | - | - | - | 2048 x 2048 | 1024 x 1024* | - |
 
 `*` = the default upscaler for each Midjourney Version Model.  
 `**` Max Upscale is an older resource-intensive upscaler and is only available when users are in Fast Mode.
