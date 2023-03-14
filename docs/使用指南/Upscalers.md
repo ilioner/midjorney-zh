@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 
 #### Midjourney starts by generating a grid of low-resolution image options for each Job. You can use a Midjourney upscaler on any grid image to increase the size and add additional details. There are multiple upscale models available for upscaling an image.
 
