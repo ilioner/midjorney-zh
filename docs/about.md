@@ -1,5 +1,9 @@
 ### 关于 Midjourney-zh
 
+---
+sidebar_position: 10
+---
+
 欢迎来到Midjourney-zh！Midjourney-zh是一个由爱好者发起的非盈利网站项目，起源于我们对人工智能的热爱和对Midjourney的热爱。网站文档的所有的内容均来源于 http://www.midjourney.com。如果您想了解更多Midjourney的内容，一定要去访问官网！
 
 Midjourney-zh将分享人工智能和Midjourney的使用技巧、热词、生产prompt的工具以及多个AI协作。我们深信，人工智能的应用将会深刻地改变我们的生活和工作方式。因此，Midjourney-zh会定期地更新网站内容，以便让大家更好地了解和掌握人工智能的应用方法。
