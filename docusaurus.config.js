@@ -119,8 +119,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '关于',
+                to: '/about',
               },
               {
                 label: 'GitHub',
