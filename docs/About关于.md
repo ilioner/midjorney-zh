@@ -1,8 +1,10 @@
-### 关于 Midjourney-zh
+
 
 ---
 sidebar_position: 10
 ---
+
+### 关于 Midjourney-zh
 
 欢迎来到Midjourney-zh！Midjourney-zh是一个由爱好者发起的非盈利网站项目，起源于我们对人工智能的热爱和对Midjourney的热爱。网站文档的所有的内容均来源于 http://www.midjourney.com。如果您想了解更多Midjourney的内容，一定要去访问官网！
 

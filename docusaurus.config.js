@@ -79,7 +79,7 @@ const config = {
             label: 'Midjourney指南',
           },
           {type: 'doc',
-           docId: 'about', label: '关于', position: 'left'},
+           docId: 'About关于', label: '关于', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
