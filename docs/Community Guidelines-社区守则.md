@@ -1,9 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Community Guidelines-社区守则
-sidebar_class_name: green
 ---
-## Community Guidelines-社区守则
 
 #### Midjourney是一个默认开放的社区。为了平台能够尽可能多的吸引和欢迎用户，内容必须符合PG-13标准。
 
