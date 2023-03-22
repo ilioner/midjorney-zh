@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-#### Midjourney开始时会为每个作业生成一个低分辨率选项的图像网格。您可以在任何网格图像上使用Midjourney的升级放大功能来增加图像的尺寸并添加更多细节。这里提供了多种模型升级选项供您选择。
+#### Midjourney开始时会为每个作业生成一个低分辨率选项的图像网格。您可以在任何网格图像上使用Midjourney的升频功能来增加图像的尺寸并添加更多细节。这里提供了多种模型升级选项供您选择。
 
  每个图像网格下方`U1` `U2` `U3` `U4` 的按钮用于对所选图像进行升级。
 
@@ -23,10 +23,11 @@ _所有的尺寸都是基于正方形 1:1 的宽高比。._
 
 * * *
 
-Regular (Default) Upscaler
+Regular (Default) Upscaler-常规升频器
 --------------------------
 
-The latest default upscaler increases image size while smoothing or refining details. Some small elements may change between the initial grid image and the finished upscale.
+最新的默认升频器可以在处理平滑或精细化细节的同时增加图像大小。一些小的元素可能会在生成网格图像和完成的升频操作之间发生变化。
+
 
 ##### prompt: `adorable rubber duck medieval knight`
 
@@ -45,6 +46,10 @@ The Light Upscaler creates a 1024px x 1024px image and adds a moderate amount of
 
 Use the `--uplight` parameter to change the behavior of the `U1` `U2` `U3` `U4` upscale buttons to use the Light Upscaler.
 
+Light Upscaler 可以创建一个 1024px x 1024px 的图像，并添加适量的细节和纹理。使用旧版 [Midjourney Model Versions](https://docs.midjourney.com/model-versions) 处理面部和光滑表面时，可以使用 Light Uspscaler。
+
+使用 Light Upscaler时可以需要 `--uplight` 参数来改变 `U1`、`U2`、`U3`、`U4` 放大按钮的行为
+
 ##### prompt: `adorable rubber duck medieval knight`
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_light.png)
@@ -55,14 +60,14 @@ Use the `--uplight` parameter to change the behavior of the `U1` `U2` `U3` `U4` 
 
 * * *
 
-Detailed Upscaler
+Detailed Upscaler-细节升频
 -----------------
 
-The Detail Upscaler, creates a 1024px x 1024px image and adds many additional fine details to the image.
+Detail Upscaler会创建一个1024px x 1024px的图像，并向图像添加许多额外的细节。
 
-Images that have been upscaled with the detailed upscaler can be upscaled again using the `Upscale to Max` button for a final resolution of 1664px x 1664px. `Upscale to Max` is only available when in Fast mode.
+使用细节升频器放大的图像可以再次使用`Upscale to Max` 按钮进行放大，以获得1664px x 1664px的最终分辨率。只有在快速模式下才能使用`Upscale to Max` 功能。
 
-The Detailed upscaler is the default for Midjourney Model Versions `V1`, `V2`, `V3`, and `hd`
+Detail Upscaler是Midjourney模型版本`V1`、`V2`、`V3`和`hd`的默认设置。
 
 ##### prompt: `adorable rubber duck medieval knight`
 
@@ -77,9 +82,10 @@ The Detailed upscaler is the default for Midjourney Model Versions `V1`, `V2`, `
 Beta Upscaler
 -------------
 
-The Beta Upscaler creates a 2048px x 2048px image without adding many additional details. The Beta Uspcaler is useful for faces and smooth surfaces.
 
-Use the `--upbeta` parameter to change the behavior of the `U1` `U2` `U3` `U4` upscale buttons to use the Beta Upscaler.
+Beta Upscaler 可以创建一个 2048px X 2048px 的图像，而不会添加太多额外的细节。 Beta Uspcaler 对于人脸和光滑表面非常有用。
+
+使用 Beta Upscaler用 `--upbeta` 参数来更改 `U1`、`U2`、`U3`、`U4` 的行为。
 
 ##### prompt: `adorable rubber duck medieval knight`
 
@@ -97,6 +103,14 @@ Anime Upscaler
 The Anime Upscaler is the default upscaler for the [`--niji` model](https://docs.midjourney.com/models). It upscales images to 1024px x 1024px and is optimized to work well with illustrated and anime styles.
 
 Use the `--upanime` parameter to change the behavior of the `U1` `U2` `U3` `U4` upscale buttons to use the Anime Upscaler.
+
+### Anime Upscaler-动漫升频器
+
+--------------
+
+动漫升频器是[`--niji`模型](https://docs.midjourney.com/models)的默认升频器。它将图像升频到1024px x 1024px，经过优化，可以很好地处理图像的插画和动漫风格。
+
+使用 Anime Upscaler 需要`--upanime`参数来更改`U1`、`U2`、`U3`、`U4`升频按钮的行为。
 
 ##### prompt: `adorable rubber duck medieval knight`
 
@@ -117,41 +131,52 @@ Remaster any previously upscaled job by clicking the `🆕 Remaster` button foun
 
 To Remaster very old jobs, use the [`/show` command](https://docs.midjourney.com/v1/docs/show-job) to refresh that job in Discord.
 
+
+Remaster是早期使用`V1`、`V2`或`V3`[模型版本](https://docs.midjourney.com/model-versions)进行升频的图像的附加选项。 Remaster将使用`--test`和`--creative`参数升级图像，混合原始图像的构成和新的`--test`模型的连贯性。
+
+通过单击原始升级下方找到的 `🆕 Remaster `按钮来重新制作任何以前已经过升级处理的工作。
+
+要重新制作非常之前的作业，请使用[`/show`](https://docs.midjourney.com/v1/docs/show-job)命令在Discord中刷新该工作。"
+
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_RemasterEx.png)
 
-Left: Image upscaled with default upscaler. Right: Remastered Image.
+左：使用默认升频器进行图像升频。右：Remaster生成的图像。
 
-Remaster Notes
+Remaster说明
 
-*   Only works on [Aspect Ratio](https://docs.midjourney.com/docs/aspect-ratios) up to 2:3 or 3:2
-*   Inconsistent results with [Multi Prompts](https://docs.midjourney.com/docs/multi-prompts)
-*   Does not work with [Image Prompts](https://docs.midjourney.com/v1/docs/image-prompts).
+* 仅适用于宽高比为2:3或3:2的[纵横比](https://docs.midjourney.com/docs/aspect-ratios)的图像。
+
+* 在[多提示](https://docs.midjourney.com/docs/multi-prompts)下结果不一致。
+
+* 不支持[图片提示](https://docs.midjourney.com/v1/docs/image-prompts)。
 
 * * *
 
-How to Switch Upscalers
+
+### 如何切换升频器
+
 -----------------------
 
-### Use the Settings Command
+### 使用设置命令
 
 `⏫ Regular Upscale` `⬆️ Light Upscale` `🔥 Beta Upscale`
 
-Type `/settings` and select your preferred upscaler from the menu.
+输入 `/settings` 并从菜单中选择您喜欢的升频器。
 
-### Use an Upscaler Parameter
+### 使用升频参数
 
-Add `--uplight`, `--upbeta` or `--upanime` to the end of your prompt.
+在提示符末尾添加 `--uplight`, `--upbeta` 或者 `--upanime`.
 
-### Use an Upscale Redo Button
+### 使用重新升级按钮
 
 `⏫ Regular Upscale` `⬆️ Light Upscale` `🔥 Beta Upscale`
 
-After you upscale an image you will see a row of buttons underneath the image that let you redo the upscale using a different upscaler model.
+在您将图像进行了升频后，您会看到一排按钮位于图像下方，让您可以使用不同的采样模型重新进行升频。
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Interface.png)
 
-There are two modes for image generation, **Fast Mode** and **Relax Mode**. Fast Mode tries to give you a GPU instantly. It's the highest-priority processing tier and uses your subscription's monthly GPU time. **Relax Mode** queues your generation behind others based on how much you've used the system. **Relax Mode** wait times are variable and usually range from 1–10 minutes.
 
-By default, your images will be generated using **Fast** mode. You can switch to **Relax** if you have a Standard or Pro subscription.
+图像生成有两种模式，**Fast Mode快速模式**和**Relax Mode轻松模式**。 快速模式试图立即为您提供GPU进行处理。 它是最高优先级的处理层，会消耗您订阅的每月GPU使用时间。 **轻松模式**根据您已经使用系统的量将您的生成排队在其他人后面。 **轻松模式**等待时间是可变的，通常范围从1到10分钟。
 
-Was this article helpful?
+默认情况下，您的图像将使用快速模式生成。 如果您拥有标准或专业版订阅，则可以切换到Relax Mode。
+

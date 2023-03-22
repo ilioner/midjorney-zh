@@ -29,7 +29,7 @@ Image URLs（多个图片地址）始终位于prompt的最前面，以影响完�
 
 `Parameters` 参数
 
-参数可以改变生成图片的方式，包括调整纵横比、模型、放大等等。参数需要放在提示语的末尾。
+参数可以改变生成图片的方式，包括调整纵横比、模型、升频等等。参数需要放在提示语的末尾。
 
 [Read more about Parameters](https://docs.midjourney.com/parameter-list)
 
