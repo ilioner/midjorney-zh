@@ -1,21 +1,24 @@
+---
+sidebar_position: 2
+---
 
-#### Midjourney starts by generating a grid of low-resolution image options for each Job. You can use a Midjourney upscaler on any grid image to increase the size and add additional details. There are multiple upscale models available for upscaling an image.
+#### Midjourney开始时会为每个作业生成一个低分辨率选项的图像网格。您可以在任何网格图像上使用Midjourney的升级放大功能来增加图像的尺寸并添加更多细节。这里提供了多种模型升级选项供您选择。
 
-The `U1` `U2` `U3` `U4` buttons under each image grid are used to upscale the selected image.
+ 每个图像网格下方`U1` `U2` `U3` `U4` 的按钮用于对所选图像进行升级。
 
 ### Midjourney Dimensions and Sizes
 
-_All sizes are for square 1:1 aspect ratios._
+_所有的尺寸都是基于正方形 1:1 的宽高比。._
 
-| Model Version  | Starting Grid Size | V4 Default Upscaler | Detail Upscale | Light Upscale | Beta Upscale | Anime Upscale | Max Upscale** |
+| 模型版本  | Starting Grid Size | V4 Default Upscaler | Detail Upscale | Light Upscale | Beta Upscale | Anime Upscale | Max Upscale** |
 |----------------|--------------------|---------------------|----------------|---------------|--------------|---------------|---------------|
-| Default Model<br/>Version 4 | 512 x 512 | 1024 x 1024 * | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
+| 默认<br/>Version 4 | 512 x 512 | 1024 x 1024 * | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
 | hd | 512 x 512 | - | 1536 x 1536* | 1536 x 1536 | 2048 x 2048 | - | 1024 x 1024 |
 | v1–v3 | 256 x 256 | - | 1024 x 1024* | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 1664 x 1664 |
 | niji | 512 x 512 | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
 | test / testp | 512 x 512 | - | - | - | 2048 x 2048 | 1024 x 1024* | - |
 
-`*` = the default upscaler for each Midjourney Version Model.  
+`*` = 每个 Midjourney 版本模型的默认Upscalers.  
 `**` Max Upscale is an older resource-intensive upscaler and is only available when users are in Fast Mode.
 
 * * *

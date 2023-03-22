@@ -78,7 +78,8 @@ const config = {
             position: 'left',
             label: 'Midjourney指南',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {type: 'doc',
+           docId: '关于 Midjourney-zh', label: '关于', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -119,8 +120,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '关于',
+                to: '/about',
               },
               {
                 label: 'GitHub',
