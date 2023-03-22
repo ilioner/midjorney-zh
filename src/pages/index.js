@@ -12,6 +12,8 @@ function HomepageHeader() {
   const talk = useTypewriter('AI，Midjourney，Prompt');
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3102972291766814"
+     crossorigin="anonymous"></script>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{talk}</p>
