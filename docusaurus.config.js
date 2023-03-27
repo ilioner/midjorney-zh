@@ -74,12 +74,18 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Midjourney',
+            // docId: 'Midjourney',
             position: 'left',
             label: 'Midjourney指南',
+            to: '/docs/快速开始/Midjourney',
           },
-          {type: 'doc',
-           docId: '关于 Midjourney-zh', label: '关于', position: 'left'},
+          {
+            type: 'doc',
+            docId: '关于 Midjourney-zh', 
+            label: '关于', 
+            position: 'left',
+            to: '/docs/关于 Midjourney-zh',
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
