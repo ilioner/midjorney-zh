@@ -1,7 +1,8 @@
 
 ---
 
-The Settings command provides toggle buttons for common options like model version, style value, quality value, and upscaler version. Settings also has toggle buttons for the `/stealth` and `/public` commands.
+
+`Settings` 命令提供了常见选项的切换按钮，如模型版本、样式值、质量值和升频器版本。`Settings` 还有用于 `"/stealth"` 和 `"/public"` 命令的切换按钮。
 
 ---
 ![Image showing the interface of the Midjourney settings command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_settings.png)
@@ -37,7 +38,8 @@ Switch between [Public and Stealth modes](https://docs.midjourney.com/stealth).
 
 `🎛️ Remix`
 
-Switch to [Remix mode](https://docs.midjourney.com/docs/remix)  
+切换到 [Remix mode](https://docs.midjourney.com/docs/remix)  
+
   
 
 `🐇 Fast` `🐢 Relax`

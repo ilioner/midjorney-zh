@@ -25,8 +25,6 @@
 
 ### Relaxed Usage-Relaxed使用情况
 
-Shows your [Relax Mode](https://docs.midjourney.com/fast-relax) usage for the month. Heavy Relax Mode users will experience slightly slower queue times. Relaxed usage amounts reset monthly.
-
 显示本月您使用的[Relax Mode](https://docs.midjourney.com/fast-relax)。大量使用Relaxed的用户将会稍微降低排队速度。Relaxed的使用量将每月重置。
 
 ###  Queued Jobs-待运行作业

@@ -11,8 +11,12 @@
             "id": "d56e4b77aa71bb74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/使用指南/命令/Settings and Presets-预先设置项.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -29,12 +33,8 @@
             "id": "1befcd394f27d053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/使用指南/Midjourney Model Versions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/使用指南/命令/UserInfo.md",
+                "file": "docs/使用指南/命令/UserInfo-查看个人信息.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/使用指南/命令/Show Job.md",
+                "file": "docs/使用指南/命令/Show Job-展示作业.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Midjourney.md",
+                "file": "docs/使用指南/命令/Settings and Presets-预先设置项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Midjourney.md",
+                "file": "docs/使用指南/命令/Settings and Presets-预先设置项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Midjourney.md"
+                "file": "docs/使用指南/命令/Settings and Presets-预先设置项.md"
               }
             }
           }
@@ -249,21 +248,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1b915a7ef34e8c8",
+  "active": "d56e4b77aa71bb74",
   "lastOpenFiles": [
-    "docs/Midjourney.md.sb-c3ec85b6-JRK0lC",
-    "docs/Community Guidelines-社区守则.md",
-    "docs/Midjourney.md",
-    "docs/使用指南/Upscalers.md",
-    "docs/使用指南/命令/Blend.md",
-    "docs/使用指南/命令/Show Job.md",
-    "docs/使用指南/命令/UserInfo.md",
-    "docs/使用指南/命令/Settings and Presets.md",
+    "docs/使用指南/命令/Blend-混合图像.md",
     "docs/使用指南/命令/命令列表.md",
+    "docs/使用指南/命令/Settings and Presets-预先设置项.md",
+    "docs/使用指南/命令/Show Job-展示作业.md",
+    "docs/使用指南/命令/UserInfo-查看个人信息.md",
+    "docs/使用指南/Upscalers.md",
+    "node_modules/@babel/helper-compilation-targets/node_modules/semver/CHANGELOG.md",
+    "node_modules/@babel/core/node_modules/semver/CHANGELOG.md",
+    "node_modules/@babel/core/README.md",
+    "node_modules/@ampproject/remapping/README.md",
+    "docs/Midjourney.md",
+    "docs/Community Guidelines-社区守则.md",
+    "docs/使用指南/Versions-模型版本.md",
+    "docs/下一步/Prompts-指令.md",
+    "docs/下一步/Explore Prompting-Prompt的探索.md",
+    "docs/下一步/Blend-叠加.md",
+    "docs/Midjourney.md.sb-c3ec85b6-JRK0lC",
     "docs/使用指南/命令",
     "docs/使用指南/Midjourney Model Versions.md",
     "docs/使用指南",
-    "docs/下一步/Explore Prompting-Prompt的探索.md",
     "static/baidu_verify_codeva-K2XhvFJsib.html",
     "baidu_verify_codeva-K2XhvFJsib.html",
     "src/pages/baidu_verify_codeva-K2XhvFJsib.html",
@@ -281,10 +287,7 @@
     "static/img/favicon.ico",
     "static/img/micon的副本.png.sb-fd40c0e1-roET8F",
     "docs/tutorial-basics/congratulations.md",
-    "docs/下一步/Prompts-指令.md",
-    "docs/下一步/Blend-叠加.md",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/node_gyp_bins/python3",
     "node_modules/react-typewriter-effect/node_modules/webpack/SECURITY.md",
     "node_modules/react-typewriter-effect/node_modules/webpack/README.md",
     "node_modules/react-typewriter-effect/node_modules/terser/README.md",
@@ -292,10 +295,6 @@
     "node_modules/react-typewriter-effect/node_modules/terser/CHANGELOG.md",
     "node_modules/react-typewriter-effect/node_modules/acorn/README.md",
     "node_modules/react-typewriter-effect/node_modules/acorn/CHANGELOG.md",
-    "node_modules/pako/README.md",
-    "node_modules/pako/CHANGELOG.md",
-    "node_modules/buffer/README.md",
-    "node_modules/buffer/AUTHORS.md",
-    "node_modules/react-typewriter-effect/node_modules/enhanced-resolve/README.md"
+    "node_modules/pako/README.md"
   ]
 }
