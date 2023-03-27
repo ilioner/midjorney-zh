@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 
 #### “Prompt”是指提供给Midjourney Bot解读来生成图像的短文本短语。Midjourney Bot将提示中的单词和短语分解成更小的部分，我们称之为tokens，它可以与训练数据进行比较，然后生成图像。精心设计过的提示可以帮助你生成独特且惊艳的图像
 

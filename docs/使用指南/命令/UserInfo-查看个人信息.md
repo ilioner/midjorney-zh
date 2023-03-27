@@ -1,4 +1,8 @@
 
+---
+sidebar_position: 2
+---
+
 #### 使用`/info`命令可以查看有关您当前排队和运行的作业、订阅类型、续订日期等信息。
 
 ![Image showing the user information popup generated after using the /info command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Info.png)

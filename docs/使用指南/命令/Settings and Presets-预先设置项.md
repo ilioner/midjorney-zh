@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 
 ---
 
@@ -33,7 +36,7 @@ Sets the [Upscacler](https://docs.midjourney.com/upscalers) used for jobs.
 
 `🧍‍♂️Public` `🕵️ Stealth`
 
-Switch between [Public and Stealth modes](https://docs.midjourney.com/stealth). Corresponds to the `/public` and `/stealth` commands.  
+`/public` 和 `/stealth` 命令可以切换 [公共模式 (Public Mode) 和隐形模式 (Stealth Mode)](https://docs.midjourney.com/stealth)。
   
 
 `🎛️ Remix`
@@ -44,55 +47,60 @@ Switch between [Public and Stealth modes](https://docs.midjourney.com/stealth).
 
 `🐇 Fast` `🐢 Relax`
 
-Switch between [Fast and Relaxed modes](https://docs.midjourney.com/fast-relax). Corresponds to the `/fast` and `/relax` commands.  
+使用 `/fast` and `/relax` 命令切换[Fast and Relaxed modes](https://docs.midjourney.com/fast-relax).
   
 
-Settings Note
+Settings Note-备注
 
-Parameters added to the end of a prompt will override selections made using `/settings`.
-
----
-
-## Custom Preferences
-
-Create custom options using prefer commands to add commonly used parameters to the end of prompts automatically.  
-`/prefer auto_dm` Completed Jobs are automatically sent to Direct Message  
-`/prefer option` Create or manage a custom option.  
-`/prefer option list` View your current custom options.  
-`/prefer suffix` specify a suffix to add to the end of every prompt.
+如果在提示的末尾添加参数将覆盖使用`/settings`所做的设置。
 
 ---
 
-### Prefer Option
+## Custom Preferences-自定义设置
 
-`/prefer option set <name> <value>` Creates a custom parameter that you can use to add multiple parameters to the end of prompts quickly.
+使用`prefer`命令会创建自定义选项，会自动将常用的参数添加到提示的末尾。
+`/prefer auto_dm` 完成的任务会自动转发到你的私信
+`/prefer option` 创建或管理自定义选项.  
+`/prefer option list` 展示你所有的自定义选项.  
+`/prefer suffix` 可以每个提示的末尾添加一个指定后缀.
+
+---
+
+### Prefer Option-首选项
+
+
+`/prefer option set <name> <value>`，创建自定义参数，使你能够快速地将多个参数添加到提示末尾。
 
 ![PreferOptionSet.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet.png)
 
-`/prefer option set` `mine` `--hd --ar 7:4` creates an option called "mine" that translates to `--hd --ar 7:4`.  
+例如：
+`/prefer option set` `mine` `--hd --ar 7:4` 会创建一个名为"mine"的选项，对应的参数是 `--hd --ar 7:4`。
   
 
 ![PreferOptionSet_Used.jpg](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet_Used.jpg)
 
-Using `/imagine prompt` `vibrant California poppies --mine`, is interpreted as `/imagine prompt` `vibrant California poppies --hd --ar 7:4`.
 
-Leave the "value" field empty to delete an option.  
+使用 `/imagine prompt vibrant California poppies --mine`，等同于 `/imagine prompt vibrant California poppies --hd --ar 7:4`。
+
+
+如果你想删除对应的设定参数就将value字段置空
   
 
-`/prefer option list` list all options created with `prefer option set.` Users can have up to 20 custom options.
+`/prefer option list`命令会列出所有使用`prefer option set`命令创建的选项。用户最多可以创建20个自定义选项。
 
 ![PreferOptionList.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionList.png)
 
-To delete a custom option, use `/prefer option set` `<name to delete>` and leave the value field blank.
+
+要删除自定义选项，请使用 `/prefer option set` `<要删除的名称>` 并将值字段留空。
 
 ---
 
-### Prefer Suffix
+### Prefer Suffix-后缀
 
-`/prefer suffix` automatically appends the specified suffix after all prompts. **Use the command without a value to reset.**
+`/prefer suffix` 命令可以自动将指定后缀添加到所有提示之后。**在不传递值的情况下使用该命令将重置后缀。**
 
-Command example: `/prefer suffix` `--uplight --video`
+命令示例：`/prefer suffix` `--uplight --video`
 
-Only [Parameters](https://docs.midjourney.com/parameter-list) can be used with `/prefer suffix`,  
-`prefer suffix --no orange` is accepted  
-`prefer suffix orange::-1` is not accepted
+只有可以与 [参数列表](https://docs.midjourney.com/parameter-list) 中的参数一起使用的选项可以用于 `/prefer suffix`，  
+例如，`prefer suffix --no orange` 可以被接受，  
+而 `prefer suffix orange::-1` 不能被接受。

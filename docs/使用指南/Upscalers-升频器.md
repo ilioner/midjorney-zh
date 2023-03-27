@@ -42,10 +42,6 @@ Regular (Default) Upscaler-常规升频器
 Light Upscaler
 --------------
 
-The Light Upscaler creates a 1024px x 1024px image and adds a moderate amount of details and textures. The Light Uspscaler is useful for faces and smooth surfaces when using older [Midjourney Model Versions](https://docs.midjourney.com/model-versions).
-
-Use the `--uplight` parameter to change the behavior of the `U1` `U2` `U3` `U4` upscale buttons to use the Light Upscaler.
-
 Light Upscaler 可以创建一个 1024px x 1024px 的图像，并添加适量的细节和纹理。使用旧版 [Midjourney Model Versions](https://docs.midjourney.com/model-versions) 处理面部和光滑表面时，可以使用 Light Uspscaler。
 
 使用 Light Upscaler时可以需要 `--uplight` 参数来改变 `U1`、`U2`、`U3`、`U4` 放大按钮的行为
@@ -97,13 +93,6 @@ Beta Upscaler 可以创建一个 2048px X 2048px 的图像，而不会添加太�
 
 * * *
 
-Anime Upscaler
---------------
-
-The Anime Upscaler is the default upscaler for the [`--niji` model](https://docs.midjourney.com/models). It upscales images to 1024px x 1024px and is optimized to work well with illustrated and anime styles.
-
-Use the `--upanime` parameter to change the behavior of the `U1` `U2` `U3` `U4` upscale buttons to use the Anime Upscaler.
-
 ### Anime Upscaler-动漫升频器
 
 --------------
@@ -124,12 +113,6 @@ Use the `--upanime` parameter to change the behavior of the `U1` `U2` `U3` `U4` 
 
 Remaster
 --------
-
-Remaster is an additional option for previously upscaled images made with the `V1`, `V2`, or `V3` [Model Versions](https://docs.midjourney.com/model-versions). Remaster will upscale an image again using the `--test` and `--creative` parameters blending the composition of the original image and the coherency of the newer `--test` model.
-
-Remaster any previously upscaled job by clicking the `🆕 Remaster` button found beneth the original upscale.
-
-To Remaster very old jobs, use the [`/show` command](https://docs.midjourney.com/v1/docs/show-job) to refresh that job in Discord.
 
 
 Remaster是早期使用`V1`、`V2`或`V3`[模型版本](https://docs.midjourney.com/model-versions)进行升频的图像的附加选项。 Remaster将使用`--test`和`--creative`参数升级图像，混合原始图像的构成和新的`--test`模型的连贯性。
