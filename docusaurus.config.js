@@ -74,23 +74,16 @@ const config = {
         items: [
           {
             type: 'doc',
-            // docId: 'Midjourney',
-            position: 'left',
-            label: 'Midjourney指南',
-            to: '/docs/快速开始/Midjourney',
-          },
-          {
-            type: 'doc',
             docId: '关于 Midjourney-zh', 
-            label: '关于', 
+            label: '文档', 
             position: 'left',
-            to: '/docs/关于 Midjourney-zh',
+            to: '/docs/01-关于 Midjourney-zh',
           },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -144,6 +137,7 @@ const config = {
       },
       metadata: [{name: 'keywords', content: 'Midjourney,Prompt,AI,中文社区,midjourney-zh,midjourney中文教程,prompt,chatgpt-zh,chatgpt,MJ绘画,AI绘画,AI艺术,DALL·E 2,Midjourney,Stable Diffusion,midjourney中文,midjourney中文网'}],
     }),
+    
 };
 
 module.exports = config;

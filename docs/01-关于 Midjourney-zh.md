@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 1
 ---
 
 欢迎来到Midjourney-zh！Midjourney-zh是一个由爱好者发起的非盈利网站项目，起源于我们对人工智能的热爱和对Midjourney的热爱。网站文档的所有的内容均来源于 http://www.midjourney.com。如果您想了解更多Midjourney的内容，一定要去访问官网！
@@ -10,4 +10,7 @@ Midjourney-zh将分享人工智能和Midjourney的使用技巧、热词、生产
 
 Midjourney-zh不仅仅是一个学习平台，更是一个互动交流的社区。Midjourney-zh欢迎所有对人工智能和Midjourney的大佬和爱好者们加入我们的社区，一起分享、探讨人工智能的应用和发展方向。
 
+如果您想在其他渠道关注我们，我们有微信公众号和小红书，关注起来吧！！！
+
+![[wx.jpg]]![[xhs.png]]
 最后，衷心感谢！
