@@ -137,7 +137,17 @@ const config = {
       },
       metadata: [{name: 'keywords', content: 'Midjourney,Prompt,AI,中文社区,midjourney-zh,midjourney中文教程,prompt,chatgpt-zh,chatgpt,MJ绘画,AI绘画,AI艺术,DALL·E 2,Midjourney,Stable Diffusion,midjourney中文,midjourney中文网'}],
     }),
-    
+  plugins: [
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        ignorePatterns: ['/tags/**'],
+        filename: 'sitemap.xml',
+      },
+    ],
+  ],
 };
 
 module.exports = config;

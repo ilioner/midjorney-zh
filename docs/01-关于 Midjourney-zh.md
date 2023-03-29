@@ -10,6 +10,7 @@ __Midjourney-zh将分享人工智能和Midjourney的使用技巧、热词、生�
 
 __Midjourney-zh不仅仅是一个学习平台，更是一个互动交流的社区。Midjourney-zh欢迎所有对人工智能和Midjourney的大佬和爱好者们加入我们的社区，一起分享、探讨人工智能的应用和发展方向。__
 
- !()[../static/img/ewm.jpg]
- 
+
+![二维码](./assets/ewm.jpg)
+
 ####  最后，衷心感谢！
