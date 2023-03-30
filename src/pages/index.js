@@ -33,8 +33,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title},教程，学习，文档，入门`}
+      description="midjourney中文教程 <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
