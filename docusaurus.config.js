@@ -56,6 +56,17 @@ const config = {
         },
       }),
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        sitemap: {
+          changefreq: 'daily',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+      },
+    ],
   ],
 
   themeConfig:
@@ -135,19 +146,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      metadata: [{name: 'keywords', content: 'Midjourney,Midjourney学习,Prompt,AI,中文社区,midjourney-zh,midjourney中文教程,prompt,chatgpt-zh,chatgpt,MJ绘画,AI绘画,AI艺术,AI插画,插画,AI,ai,gpt,chatgpt,DALL·E 2,Midjourney,Stable Diffusion,midjourney中文,midjourney入门教程,midjourney中文网,midjourney,midjourney文档,midjourney中文教程'}],
+      metadata: [{name: 'keywords', content: 'Midjourney,Midjourney学习,Prompt,AI,中文社区,midjourney-zh,midjourney中文教程,prompt,chatgpt-zh,chatgpt,MJ绘画,AI绘画,AI艺术,AI插画,插画,AI,ai,gpt,chatgpt,DALL·E 2,Midjourney,Stable Diffusion,midjourney中文,midjourney入门教程,midjourney中文网,midjourney,midjourney文档,midjourney'}],
     }),
-  plugins: [
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        changefreq: 'daily',
-        priority: 0.5,
-        ignorePatterns: ['/tags/**'],
-        filename: 'sitemap.xml',
-      },
-    ],
-  ],
+
 };
 
 module.exports = config;
