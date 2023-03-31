@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Midjourney中文社区',
+  title: 'Midjourney中文指南',
   tagline: 'AI，Midjourney，Prompt',
   favicon: 'img/favicon.ico',
 
@@ -70,9 +70,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Midjourney中文社区',
+        title: 'Midjourney中文指南',
         logo: {
-          alt: 'Midjourney中文社区',
+          alt: 'Midjourney中文指南',
           // src: 'img/logo.svg',
           
           src: 'img/micon.png',
@@ -81,7 +81,7 @@ const config = {
           {
             type: 'doc',
             docId: '关于 Midjourney-zh', 
-            label: '文档', 
+            label: '入门教程', 
             position: 'left',
             to: '/docs/01-关于 Midjourney-zh',
           },
