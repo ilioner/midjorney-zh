@@ -19,7 +19,7 @@ sidebar_position: 3
 
 与任何其他 `/imagine` 命令一样， `/blend` 指令的末尾可以添加[自定义后缀](https://docs.midjourney.com/v1/docs/settings-and-presets)。指定在 `/blend `命令中的宽高比会覆盖自定义后缀中的宽高比。
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Blend_Interface.png)
+![](../../assets/doc/Midjourney_Blend_Command/MJ_Blend_Interface.png)
 
 
 叠加提示
@@ -31,4 +31,4 @@ sidebar_position: 3
 使用 `/blend`的实例
 -------------------
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Blend.gif)
+![](../../assets/doc/Midjourney_Blend_Command/MJ_Blend.gif)
