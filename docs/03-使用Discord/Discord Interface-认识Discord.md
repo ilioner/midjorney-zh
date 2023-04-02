@@ -12,11 +12,11 @@ sidebar_position: 1
 
 ## Discord Interface-Discord界面
 
-![Image of the Discord Interface and the official Midjourney Server](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordInterface.png)
+![Image of the Discord Interface and the official Midjourney Server](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordInterface.png)
 
 ### Server List-服务器列表
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_servers.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Interface_servers.png)
 
 **Direct Messages** - 私信
 您可以在私人聊天中与 Midjourney 机器人进行一对一的交流，享受更加安静的体验。
@@ -26,7 +26,7 @@ sidebar_position: 1
 
 ### Channel List-频道列表
 
-![Image of channels in the Midjourney Discord Server](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_Channels.png)
+![Image of channels in the Midjourney Discord Server](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Interface_Channels.png)
 
 
 **#trial-support**  
@@ -37,7 +37,7 @@ sidebar_position: 1
 
 ### Member List-成员列表
 
-![Image of the Member List on the Midjourney Discord Server](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_members.png)
+![Image of the Member List on the Midjourney Discord Server](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Interface_members.png)
 
 
 **Midjourney Bot**  
@@ -52,7 +52,7 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 
 `/imagine` 命令会根据你的提示生成低分辨率图像选项网格。使用每个图像网格下面的按钮创建图像变体、放大图像或重新运行上次 Midjourney Bot 操作。
 
-![Image of the image generation interface on discord](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordInterface%281%29.png)
+![Image of the image generation interface on discord](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordInterface%281%29.png)
 
 
 ### 放大按钮
@@ -71,7 +71,7 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 
 ## Upscaled Images-放大后的图像
 
-![Image of the upscaled image interface on discord](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordUpscale.png)
+![Image of the upscaled image interface on discord](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordUpscale.png)
 
 
 ### 放大和重做按钮
@@ -96,7 +96,7 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 ## Direct Messages-私信
 
 
-如果 #general 或 #newbie 频道的消息太快了，Midjourney 的订阅者可以在他们的 Discord 私信中与 Midjourney Bot 进行一对一的交流。
+如果 #general 或 #newbie 频道的消息太快了，订阅Midjourney后你也可以在 Discord 私信中与 Midjourney Bot 进行一对一的交流。
 
 【了解如何向 Midjourney Bot 发送私信，详见 [Direct Messages](https://docs.midjourney.com/docs/direct-messages)。】
 
@@ -111,21 +111,14 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 
 ---
 
-## Daily Theme Channel
-
-Participate in a fun themed group image generation in the [#daily-theme channel](https://discord.com/channels/662267976984297473/945077390839787570). Look for the day's theme next to the channel's name. All generations must include one of the day's keywords.
-
 ## 每日主题频道
 
 在 [#daily-theme 频道](https://discord.com/channels/662267976984297473/945077390839787570) 中参加有趣的主题活动。在频道名称旁找到当天的主题。所有生成图都必须包含当天的关键词之一。
 
 注意， #daily-theme 频道是生成图的开放频道，如果您想与 Midjourney Bot 进行一对一的交流，请使用私信。
 
-![Image showing the Midjourney Daily Theme channel](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DailyTheme.png)
+![Image showing the Midjourney Daily Theme channel](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DailyTheme.png)
 
-Turn off the daily theme notification
-
-Want to avoid the daily notification from the daily theme channel? Use the `/daily_theme` command to turn off notifications for that channel.
 
 关闭每日主题消息通知
 
