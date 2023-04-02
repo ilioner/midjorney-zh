@@ -4,8 +4,18 @@ sidebar_position: 1
 
 #### Midjourney会定期发布新版本模型来提高效率、整体连贯性和质量。默认是最新的模型，你可以使用`--version`或`--v`参数或使用`/settings`命令选择模型版本来使用其他模型。不同的模型对不同类型的图像有优势。
 
-`--version`  参数可以是 1, 2, 3, and 4.  
+`--version`  参数可以是 1, 2, 3,  4, and 5.. 
 `--version` 可以缩写为 `--v`
+
+### 最新模型
+Midjourney V5模型是最新和最先进的模型，于2023年3月15日发布。要使用此模型，请在提示的末尾添加`--v 5`参数，或使用`/settings`命令并选择5️⃣ MJ Version 5。
+
+该模型具有非常高的连贯性，擅长解释自然语言提示，具有更高的分辨率，并支持高级功能，例如使用`--tile`重复模式
+
+
+|  Prompt: vibrant California poppies --v 5   | Prompt: high contrast surreal collage --v 5  |
+|  ----  | ----  |
+|  ![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V5_VibrantCaliforniaPoppies.png)  | ![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V5_HighContrastCollage.png)  |
 
 * * *
 
@@ -16,13 +26,10 @@ Midjourney V4模型是全新的代码库和全新的人工智能架构，由Midj
 
 模型具有非常高的连贯性，并且在处理[Image Prompts](https://docs.midjourney.com/image-prompts)方面表现出色。
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4_Poppies.png)
+|  Prompt（提示）: vibrant California poppies（鲜艳的加利福尼亚罂粟花。PS：英文的prompt会更加精准）   | Prompt: high contrast surreal collage（高对比度的超现实拼贴画）  |
+|  ----  | ----  |
+| ![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V4_Poppies.png)  | ![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/high_contrast.png) |
 
-Prompt（提示）: vibrant California poppies（鲜艳的加利福尼亚罂粟花。PS：英文的promt会更加精准）
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/high_contrast.png)
-
-Prompt: high contrast surreal collage（高对比度的超现实拼贴画）
 
   
 
@@ -40,37 +47,37 @@ Midjourney模型V4版本有三种略微不同的“风味”，对模型的风�
 
 ##### `--style 4a`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4a.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V4a.jpg)
 
 vibrant California poppies --style 4a
 
 ##### `--style 4b`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4b.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V4b.jpg)
 
 vibrant California poppies --style 4b
 
 ##### `--style 4c`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_4c.png)
 
 vibrant California poppies --style 4c
 
 ##### `--style 4a`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4a_fish.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V4a_fish.jpg)
 
 school of fish --style 4a
 
 ##### `--style 4b`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4b_fish.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V4b_fish.jpg)
 
 school of fish --style 4b
 
 ##### `--style 4c`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c_fish.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_4c_fish.png)
 
 school of fish --style 4c
 
@@ -84,7 +91,7 @@ prompt 举栗: `/imagine prompt` `vibrant California poppies --v 1`
 
 ##### `--version 3`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V3_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V3_Poppies.png)
 
 default model: 07/22–11/22
 
@@ -94,7 +101,7 @@ _moderate coherency_
 
 ##### `--version 2`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V2_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V2_Poppies.png)
 
 default model: 04/22–07/22
 
@@ -104,7 +111,7 @@ _low coherency_
 
 ##### `--version1`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V1_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_V1_Poppies.png)
 
 default model: 02/22–04/22
 
@@ -114,7 +121,7 @@ _low coherency_
 
 ##### `--hd` (高清)
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_HD_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_HD_Poppies.png)
 
 early alternative model
 
@@ -133,25 +140,25 @@ prompt 举例: `/imagine prompt` `vibrant California poppies --niji`
 
 ##### `--v 4`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_4c.png)
 
 vibrant California poppies
 
 ##### `--niji`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Niji.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_Niji.jpg)
 
 vibrant California poppies --niji
 
 ##### `--v 4`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_v4_peacock.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_v4_peacock.jpg)
 
 fancy peacock
 
 ##### `--niji`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Niji_Peacock.jpg)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_Niji_Peacock.jpg)
 
 fancy peacock --niji
 
@@ -175,23 +182,23 @@ prompt 举例: `/imagine prompt` `vibrant California poppies --testp --creative`
 
 ##### `--test`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_test_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_test_Poppies.png)
 
 _A general-purpose artistic model with good coherency_
 
 ##### `--test` + `--creative`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_test_Creative_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_test_Creative_Poppies.png)
 
 ##### `--testp`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_testP_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_testP_Poppies.png)
 
 _A photo-realism model with good coherency_
 
 ##### `--testp` + `--creative`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_testP_Creative_Poppies.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_testP_Creative_Poppies.png)
 
  `--test` 和 `--testp` 的注意事项：
 
@@ -210,7 +217,7 @@ _A photo-realism model with good coherency_
 
 在你的提示末尾添加 `--v 1`, `--v 2`, `--v 3`, `--v 4`, `--v 4 --style 4a`, `--v4 --style 4b` `--test`, `--testp`, `--test --creative`, `--testp --creative`或者`--niji` 
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter-Version.gif)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/Midjourney_Model_Versions/MJ_Parameter-Version.gif)
 
   
 
