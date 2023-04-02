@@ -50,14 +50,14 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 
 ## Image Grids-图像网格
 
-`/imagine` 命令会根据你的提示生成低分辨率图像选项网格。使用每个图像网格下面的按钮创建图像变体、放大图像或重新运行上次 Midjourney Bot 操作。
+`/imagine` 命令会根据你的提示生成低分辨率图像选项网格。使用每个图像网格下面的按钮创建图像变体、升频图像或重新运行上次 Midjourney Bot 操作。
 
-![Image of the image generation interface on discord](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordInterface%281%29.png)
+![Image of the image generation interface on discord](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordInterface_29.png)
 
 
-### 放大按钮
+### 升频按钮
 
-`U1` `U2` `U3` `U4` U 按钮可以将图像放大，生成更大、更详细的图像，具体可见 [Upscalers](https://docs.midjourney.com/docs/upscalers)。
+`U1` `U2` `U3` `U4` U 按钮可以将图像升频，生成更大、更详细的图像，具体可见 [Upscalers](https://docs.midjourney.com/docs/upscalers)。
 
 ### 重做
 
@@ -69,14 +69,14 @@ Moderators 和 Guides 可以在支持频道中帮助解决账单和技术问题�
 
 ---
 
-## Upscaled Images-放大后的图像
+## Upscaled Images-升频后的图像
 
 ![Image of the upscaled image interface on discord](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_DiscordUpscale.png)
 
 
-### 放大和重做按钮
+### 升频和重做按钮
 
-`🪄 制作变体` `🔍 轻微放大重做` `🔍 Beta 放大重做`
+`🪄 制作变体` `🔍 轻微升频重做` `🔍 Beta 升频重做`
 
 使用不同的 [Upscalers](https://docs.midjourney.com/upscalers) 重新运行图像。
 

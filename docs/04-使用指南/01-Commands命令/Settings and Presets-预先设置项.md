@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 
 
-`Settings` 命令提供了常见选项的切换按钮，如模型版本、样式值、质量值和放大器版本。`Settings` 还有用于 `"/stealth"` 和 `"/public"` 命令的切换按钮。
+`Settings` 命令提供了常见选项的切换按钮，如模型版本、样式值、质量值和升频器版本。`Settings` 还有用于 `"/stealth"` 和 `"/public"` 命令的切换按钮。
 
 ---
 ![Image showing the interface of the Midjourney settings command](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_settings.jpg)
