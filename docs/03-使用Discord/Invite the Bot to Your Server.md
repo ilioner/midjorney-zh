@@ -3,92 +3,95 @@ sidebar_position: 4
 ---
 
 
-#### Invite the Midjourney Bot to any Discord Server to create with friends, or make a personal Discord Server to organize your work.
+#### 如果你有某个服务器的管理员权限。你可以将Midjourney bot添加到该服务器。
 
-Once the Midjourney Bot has joined your server, you can begin interacting with it using the `/imagine` command.
+
+一旦Midjourney Bot 被你加入服务器，你可以使用 `/imagine` 命令与它进行交互。
 
 ### Notes
 
-Midjourney images generated on private servers are still subject to Midjourney's [Community Guidelines](https://docs.midjourney.com/docs/community-guidelines).
-
-Images generated on private servers are still visible to other users on [midjourney.com](https://midjourney.com/).
-
-To use the Midjourney Bot in any server, users must have an active Midjourney trial or subscription. Using `/imagine` for the first time will automatically begin a trial membership for new users.
+在任何服务器中使用Midjourney Bot，用户必须有一个有效的Midjourney试用或订阅。一个新用户如果第一次使用`/ imagine`,MJ将为该用户自动开始试用资格。
 
 ---
 
-## How to Add The Bot
+## 添加步骤
 
-Select the Midjourney Bot from the User List, and then click **Add to Server**:  
-![MJ_BotInvite.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_BotInvite.png)
-
-  
-
-Select the server you want to add it to, then follow the directions in discord.
-
-![MJ_AuthorizeBot](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_AuthorizeBot.png)
+选择用户列表中的Midjourney Bot，然后单击 **Add to Server**:  
+![MJ_BotInvite.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_BotInvite.png)
 
   
 
-Authorize and confirm you are adding an external application.  
-If you don't see your server listed, follow the instructions below to create an Administrator Role.
+选择要添加Midjourney Bot的服务器，然后按照discord的说明操作即可。
+
+![MJ_AuthorizeBot](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_AuthorizeBot.png)
+
+  
+
+如果您没有看到所需服务器的列表，请按照以下说明创建管理员角色。
 
 ---
 
-## Bot Management
+## Bot 管理
 
-### Restrict the Bot to Specific Channels
+### 在特定频道限制Bot 
 
-If you do not want the Midjourney Bot to be usable in specific channels, go to **Edit Channel**, select the **Permissions** tab, select **@everyone** under **Roles/Members** and **_Uncheck_ "Use Application Commands."**  
-Users who try to use the Midjourney Bot in a channel with these permissions disabled will not see the command.
 
-  
+如果您不希望Midjourney Bot在特定频道中可用，请按以下步骤进行操作：
 
-![MJ_RestrictChannel.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_RestrictChannel.png)
-
-For more granular control, go to **Settings**, select **Integrations**, the **Permissions** tab, the **+ for the Midjourney Bot**, and **Manage Integration.**  
-`slash command` permissions can then be set for individual roles and channels.
-
-  
-
-![MJ_RestrictGranular.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_RestrictGranular.png)
+打开Discord服务器并找到Midjourney Bot不能使用的频道。
+单击该频道名称旁边的下拉箭头，并选择 **Edit Channel** 选项。
+在频道设置页面上，向下滚动并找到 **Permissions** 部分。
+找到 **Roles/Members** 下的 **@everyone** 选项，并单击右侧的 "+" 按钮以打开权限菜单。
+在权限菜单中，找到 **Use Application Commands** 权限，并将其取消选中**Undo (not check) the "Use Application Commands" option**，记住是取消选中。
+单击页面底部的 "保存更改" 按钮，以应用新的频道权限设置。
+完成以上步骤后，在这些禁止 Midjourney Bot 使用的频道中，用户尝试使用该机器人时将看不到任何命令响应。
 
   
 
-### Get Status Updates and Announcements on Your Server
+![MJ_RestrictChannel.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_RestrictChannel.png)
 
-Follow the Midjourney Official Discord `#announcements` and `#status` channels on your server to stay up-to-date with Midjourney.  
-  
 
-![MJ_StatusFollow.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_StatusFollow.png)
+如果您需要更细致的控制Midjourney Bot在每个频道或角色中的使用权限,则可以按照以下步骤进行操作：
 
-  
+1. 打开Discord服务器并单击右上角的  **Settings** 符号。
 
-### Create an Administrator Role
+3. 在  **Midjourney Bot ** 页面上，单击右侧的  **+ ** 按钮旁边的 **Permissions** 按钮。
+4. 找到 **Permissions** 选项卡，在该页面上可以为不同的角色和频道设置 **slash command** 权限。例如，您可以为某些频道禁用某些命令，也可以将某些命令限制为特定的用户群组（例如管理员），以确保只有授权人员才能执行这些命令。
+5. 点击保存后,新的权限将立即生效。
 
-**Only individuals with the "Manage server" permissions can add the Midjourney Bot to that server. If you do not see your server in the list, make sure you have this permission.**
-
-1.  From your Discord Server's home page. select the **Roles** tab in the Server Settings menu.  
-    ![MJ_ServerSettings.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ServerSettings.png)
+完成以上步骤后，即可根据实际需要为Midjourney Bot的 "slash command" 命令设置不同的权限级别。这样就可以更好地控制机器人在不同频道和角色中的使用。
 
   
 
-2.  Select the **Roles** tab and **Create Role**.
+![MJ_RestrictGranular.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_RestrictGranular.png)
 
-![MJ_CreateRole.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_CreateRole.png)
+  
+  
+
+### 创建管理员角色
+
+
+1.  
+    ![MJ_ServerSettings.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_ServerSettings.png)
 
   
 
-3.  Name the new role and enable **Manage Server** permissions. (Manager power level on mobile)
+2.  
 
-![MJ_ManageServerPermissions.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ManageServerPermissions.png)
-
-  
-
-4.  Select the **Manage Members** tab and assign the new role to yourself.
-
-![MJ_addMember.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_addMember.png)
+![MJ_CreateRole.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_CreateRole.png)
 
   
 
-5.  **Save** your changes.
+3.  
+
+![MJ_ManageServerPermissions.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_ManageServerPermissions.png)
+
+  
+
+4.  
+
+![MJ_addMember.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_addMember.png)
+
+  
+
+5.  **Save** .
