@@ -62,11 +62,21 @@ sidebar_position: 1
 
 ### Default Values (Model Version 4)
 
-<table><thead><tr><th></th><th>Aspect Ratio</th><th>Chaos</th><th>Quality</th><th>Seed</th><th>Stop</th><th>Style</th><th>Stylize</th></tr></thead><tbody><tr><td>Default Value<br></td><td>1:1</td><td>0</td><td>1</td><td>Random</td><td>100</td><td>4c</td><td>100</td></tr><tr><td>Range<br data-tomark-pass=""></td><td>1:2–2:1</td><td>0–100</td><td>.25 .5 or 1</td><td>whole numbers 0–4294967295</td><td>10–100</td><td>4a, 4b, or 4c</td><td>0–1000</td></tr></tbody></table>
+
+|        | Aspect Ratio | Chaos | Quality | Seed                      | Stop     | Style | Stylize |
+|--------|--------------|-------|---------|--------------------------|----------|-------|---------|
+| Default Value | 1:1 | 0   | 1       | Random             | 100      | 4c    | 100     |
+| Range         | 1:2–2:1  | 0–100 | .25 .5 or 1 | whole numbers 0–4294967295 | 10–100 | 4a, 4b, or 4c | 0–1000 |
+
+
 
 ### Default Values (Model Version 5)
 
-<table><thead><tr><th></th><th>Aspect Ratio</th><th>Chaos</th><th>Quality</th><th>Seed</th><th>Stop</th><th>Stylize</th></tr></thead><tbody><tr><td>Default Value<br></td><td>1:1</td><td>0</td><td>1</td><td>Random</td><td>100</td><td>100</td></tr><tr><td>Range<br data-tomark-pass=""></td><td>any</td><td>0–100</td><td>.25 .5, or 1</td><td>whole numbers 0–4294967295</td><td>10–100</td><td>0–1000</td></tr></tbody></table>
+|        | Aspect Ratio | Chaos    | Quality       | Seed                         | Stop      | Stylize |
+|--------|--------------|----------|---------------|------------------------------|-----------|---------|
+| Default Value   | -            | 0        | .25, .5, or 1 | Random                   | 100         | 100     |
+| Range                    | any        | 0–100  | .25, .5, or 1 | whole numbers 0–4294967295 | 10–100   | 0–1000 |
+
 
 *   大于2：1的宽高比还在实验中，可能会产生无法预期的结果.
 
@@ -132,7 +142,37 @@ Midjourney在生成每个作业的低分辨率图像网格后，会使用Midjour
 
 ### 模型版本 & 参数兼容
 
-<table><thead><tr><th></th><th>Affects initial generation</th><th>Affects variations + remix</th><th>Version 5</th><th>Version 4</th><th>Version 3</th><th>Test / Testp</th><th>Niji</th></tr></thead><tbody><tr><td>Max Aspect Ratio</td><td>✓</td><td>✓</td><td>any</td><td>1:2 or 2:1</td><td>5:2 or 2:5</td><td>3:2 or 2:3</td><td>1:2 or 2:1</td></tr><tr><td>Chaos</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Image Weight</td><td>✓</td><td></td><td>.5–2<br>default=1</td><td></td><td>any<br>default=.25</td><td>✓</td><td></td></tr><tr><td>No</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Quality</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>✓</td><td></td><td>✓</td></tr><tr><td>Seed</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Sameseed</td><td>✓</td><td></td><td></td><td></td><td>✓</td><td></td><td></td></tr><tr><td>Stop</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Style</td><td></td><td></td><td></td><td>4a and 4b</td><td></td><td></td><td></td></tr><tr><td>Stylize</td><td>✓</td><td></td><td>0–1000<br>default=100</td><td>0–1000<br>default=100</td><td>625–60000<br>default=2500)</td><td>1250–5000<br>default=2500)</td><td></td></tr><tr><td>Tile</td><td>✓</td><td>✓</td><td>✓</td><td></td><td>✓</td><td></td><td></td></tr><tr><td>Video</td><td>✓</td><td></td><td></td><td></td><td>✓</td><td></td><td></td></tr><tr><td>Number of Grid Images</td><td>-</td><td>-</td><td>4</td><td>4</td><td>4</td><td>2 (1 when aspect ratio≠1:1)</td><td></td></tr></tbody></table>
+|                  | Affects initial generation | Affects variations + remix | Version 5 | Version 4          | Version 3              | Test / Testp | Niji |
+|------------------|------------------------------|-----------------------------|-----------|--------------------|------------------------|--------------|------|
+| Max Aspect Ratio | ✓                            | ✓                           | any       | 1:2 or 2:1         | 5:2 or 2:5            | 3:2 or 2:3   | 1:2 or 2:1 |
+| Chaos            | ✓                            |                             | ✓         | ✓                  | ✓                      | ✓            | ✓    |
+| Image Weight     | ✓                            |                             | .5–2      |                    | any<br>default=.25     | ✓            |      |
+| No               | ✓                            | ✓                           | ✓         | ✓                  | ✓                      | ✓            | ✓    |
+| Quality          | ✓                            |                             | ✓         | ✓                  | ✓                      |              | ✓    |
+| Seed             | ✓                            |                             | ✓         | ✓                  | ✓                      | ✓            | ✓    |
+| Sameseed         | ✓                            |                             |           |                    | ✓                      |              |      |
+| Stop             | ✓                            | ✓                           | ✓         | ✓                  | ✓                      | ✓            | ✓    |
+| Style            |                              |                             |           | 4a and 4b         |                        |              |      |
+| Stylize          | ✓                            |                             | 0–1000    | 0–1000<br>default=100 | 625–60000<br>default=2500 | 1250–5000<br>default=2500 |      |
+| Tile             | ✓                            | ✓                           | ✓         |                    | ✓                      |              |      |
+| Video            | ✓                            |                             |           |                    | ✓                      |              |      |
+| Number of Grid Images | -                        | -                           | 4         | 4                  | 4                      | 2 (1 when aspect ratio≠1:1) |      |
+
+这是一个表格，列出了各个参数对初次生成和图像变异的影响，以及版本和可选范围等信息。具体各参数含义如下：
+
+- Max Aspect Ratio：图像的最大宽高比，可以设置为任意值。
+- Chaos：图像噪声程度的强度，取值范围在 0 到 100 之间。
+- Image Weight：图像的权重，用于调整图像的大小和重复次数。
+- No：控制渲染器是否包含噪点。
+- Quality：渲染质量，越高越清晰，可选范围为 0.25、 0.5 或 1。
+- Seed：随机种子，可以是 0 到 4294967295 之间的整数。
+- Sameseed：控制生成后的图像是否与原始图像使用相同的种子随机生成。
+- Stop：控制图像生成的迭代次数。
+- Style：图像的风格化类型。
+- Stylize：调整图像风格化的强度，取值范围在 0 到 1000 之间。
+- Tile：用于控制图像是否平铺。
+- Video：控制渲染器是否生成 GIF 动态图。
+- Number of Grid Images：用于控制网格图片的数量。
 
 * * *
 
