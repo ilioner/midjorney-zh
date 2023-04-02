@@ -8,9 +8,9 @@ sidebar_position: 3
 `Settings` 命令提供了常见选项的切换按钮，如模型版本、样式值、质量值和放大器版本。`Settings` 还有用于 `"/stealth"` 和 `"/public"` 命令的切换按钮。
 
 ---
-![Image showing the interface of the Midjourney settings command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_settings.png)
+![Image showing the interface of the Midjourney settings command](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_settings.jpg)
 
-`1️⃣ MJ Version 1` `2️⃣ MJ Version 2` `3️⃣ MJ Version 3` `4️⃣ MJ Version 4`
+`1️⃣ MJ Version 1` `2️⃣ MJ Version 2` `3️⃣ MJ Version 3` `4️⃣ MJ Version 4` `5️⃣ MJ Version 5`
 
 `🌈 Niji Mode` `🤖MJ Test` `📷 MJ Test Photo`
 
@@ -71,13 +71,13 @@ Settings Note-备注
 
 `/prefer option set <name> <value>`，创建自定义参数，使你能够快速地将多个参数添加到提示末尾。
 
-![PreferOptionSet.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet.png)
+![PreferOptionSet.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/PreferOptionSet.png)
 
 例如：
 `/prefer option set` `mine` `--hd --ar 7:4` 会创建一个名为"mine"的选项，对应的参数是 `--hd --ar 7:4`。
   
 
-![PreferOptionSet_Used.jpg](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet_Used.jpg)
+![PreferOptionSet_Used.jpg](http://rsfd8mmff.sabkt.gdipper.com/midjourney/PreferOptionSet_Used.jpg)
 
 
 使用 `/imagine prompt vibrant California poppies --mine`，等同于 `/imagine prompt vibrant California poppies --hd --ar 7:4`。
@@ -88,7 +88,7 @@ Settings Note-备注
 
 `/prefer option list`命令会列出所有使用`prefer option set`命令创建的选项。用户最多可以创建20个自定义选项。
 
-![PreferOptionList.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionList.png)
+![PreferOptionList.png](http://rsfd8mmff.sabkt.gdipper.com/midjourney/PreferOptionList.png)
 
 
 要删除自定义选项，请使用 `/prefer option set` `<要删除的名称>` 并将值字段留空。

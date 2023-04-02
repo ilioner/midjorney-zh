@@ -5,7 +5,7 @@ sidebar_position: 2
 
 #### 使用`/info`命令可以查看有关您当前排队和运行的作业、订阅类型、续订日期等信息。
 
-![Image showing the user information popup generated after using the /info command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Info.png)
+![Image showing the user information popup generated after using the /info command](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Info.png)
 
 ### Subscription-订阅项
 
@@ -46,4 +46,4 @@ sidebar_position: 2
 Type `/info` in any Bot Channel or your Direct Messages. Only you will be able to see your Info popup.  
 
 您可以在任何机器人频道或您的直接消息中使用`/info`。当然只有您才能看到您的信息弹出窗口。
-![Animated Gif showing how to use the Info command](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_infoCommand.gif)
+![Animated Gif showing how to use the Info command](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_infoCommand.gif)
