@@ -13,13 +13,17 @@ _所有的尺寸都是基于正方形 1:1 的宽高比。._
 | 模型版本  | Starting Grid Size | V4 Default Upscaler | Detail Upscale | Light Upscale | Beta Upscale | Anime Upscale | Max Upscale** |
 |----------------|--------------------|---------------------|----------------|---------------|--------------|---------------|---------------|
 | 默认<br/>Version 4 | 512 x 512 | 1024 x 1024 * | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
-| hd | 512 x 512 | - | 1536 x 1536* | 1536 x 1536 | 2048 x 2048 | - | 1024 x 1024 |
-| v1–v3 | 256 x 256 | - | 1024 x 1024* | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 1664 x 1664 |
+| Version 5 | 1024 x 1024 | - | - | - | - | - | - |
+| hd | 512 x 512 | - | 1536 x 1536 | 1536 x 1536 | 2048 x 2048 | - | 1024 x 1024 |
+| v1–v3 | 256 x 256 | - | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 1664 x 1664 |
 | niji | 512 x 512 | 1024 x 1024 | 1024 x 1024 | 1024 x 1024 | 2048 x 2048 | 1024 x 1024 | - |
-| test / testp | 512 x 512 | - | - | - | 2048 x 2048 | 1024 x 1024* | - |
+| test / testp | 512 x 512 | - | - | - | 2048 x 2048 | 1024 x 1024 | - |
 
 `*` = 每个 Midjourney 版本模型的默认Upscalers.  
-`**` Max Upscale is an older resource-intensive upscaler and is only available when users are in Fast Mode.
+`**` “Max Upscale”是一种消耗资源较多的图像放大算法，仅在用户处于“快速模式”时才可用。
+
+> Midjourney v5：
+最新的Midjourney v5能够生成分辨率为1024 x 1024像素的高分辨率图像网格，无需额外的升级步骤。
 
 * * *
 
@@ -31,11 +35,11 @@ Regular (Default) Upscaler-常规放大器
 
 ##### prompt: `adorable rubber duck medieval knight`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Regular.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Regular.png)
 
 ##### prompt: `sand cathedral`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Regular2.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Regular2.png)
 
 * * *
 
@@ -48,11 +52,11 @@ Light Upscaler 可以创建一个 1024px x 1024px 的图像，并添加适量的
 
 ##### prompt: `adorable rubber duck medieval knight`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_light.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_light.png)
 
 ##### prompt: `sand cathedral`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Light2.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Light2.png)
 
 * * *
 
@@ -67,11 +71,11 @@ Detail Upscaler是Midjourney模型版本`V1`、`V2`、`V3`和`hd`的默认设置
 
 ##### prompt: `adorable rubber duck medieval knight`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Detailed.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Detailed.png)
 
 ##### prompt: `sand cathedral`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Detailed2.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Detailed2.png)
 
 * * *
 
@@ -85,11 +89,11 @@ Beta Upscaler 可以创建一个 2048px X 2048px 的图像，而不会添加太�
 
 ##### prompt: `adorable rubber duck medieval knight`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_beta.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_beta.png)
 
 ##### prompt: `sand cathedral`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Beta2.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Beta2.png)
 
 * * *
 
@@ -103,11 +107,11 @@ Beta Upscaler 可以创建一个 2048px X 2048px 的图像，而不会添加太�
 
 ##### prompt: `adorable rubber duck medieval knight`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_beta.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_beta.png)
 
 ##### prompt: `sand cathedral`
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Beta2.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Beta2.png)
 
 * * *
 
@@ -121,7 +125,7 @@ Remaster是早期使用`V1`、`V2`或`V3`[模型版本](https://docs.midjourney.
 
 要重新制作非常之前的作业，请使用[`/show`](https://docs.midjourney.com/v1/docs/show-job)命令在Discord中刷新该工作。"
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_RemasterEx.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_RemasterEx.png)
 
 左：使用默认放大器进行图像放大。右：Remaster生成的图像。
 
@@ -156,7 +160,7 @@ Remaster说明
 
 在您将图像进行了放大后，您会看到一排按钮位于图像下方，让您可以使用不同的采样模型重新进行放大。
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Interface.png)
+![](http://rsfd8mmff.sabkt.gdipper.com/midjourney/MJ_Upscaler_Interface.png)
 
 
 图像生成有两种模式，**Fast Mode快速模式**和**Relax Mode轻松模式**。 快速模式试图立即为您提供GPU进行处理。 它是最高优先级的处理层，会消耗您订阅的每月GPU使用时间。 **轻松模式**根据您已经使用系统的量将您的生成排队在其他人后面。 **轻松模式**等待时间是可变的，通常范围从1到10分钟。
