@@ -20,7 +20,7 @@ prompt example: `/imagine prompt` `splatter art painting of acorns --stop 90`
 |![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_50.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_60.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_70.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_80.png)
 |--stop 50|--stop 60|--stop 70|--stop 80|
 |![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_90.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_stop_100.png)|
-|--stop 90|--stop 100|--stop 70|--stop 80|
+|--stop 90|--stop 100|
 
 
 * * *
