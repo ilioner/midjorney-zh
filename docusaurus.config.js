@@ -60,6 +60,10 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
+        googleAnalytics: {
+          trackingID: 'G-87KFMSNEF4',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
