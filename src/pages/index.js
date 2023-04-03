@@ -12,6 +12,15 @@ function HomepageHeader() {
   const talk = useTypewriter('AI，Midjourney，Prompt');
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-87KFMSNEF4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-87KFMSNEF4');
+    </script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3102972291766814"
      crossorigin="anonymous"></script>
       <div className="container">
