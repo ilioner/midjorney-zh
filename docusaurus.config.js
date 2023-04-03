@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
+// const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -135,11 +135,16 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Midjourney中文社区, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Midjourney中文指南, Inc.`,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: darkCodeTheme,
+        // darkTheme: darkCodeTheme,
       },
       metadata: [{name: 'keywords', content: 'Midjourney,Midjourney学习,Prompt,AI,中文社区,midjourney-zh,midjourney中文教程,prompt,chatgpt-zh,chatgpt,MJ绘画,AI绘画,AI艺术,AI插画,插画,AI,ai,gpt,chatgpt,DALL·E 2,Midjourney,Stable Diffusion,midjourney中文,midjourney入门教程,midjourney中文网,midjourney,midjourney文档,midjourney,midjourney中文指南,midjourney指南,midjourney汉化,midjourney小白教程,midjourney共享账号'}],
     }),
