@@ -21,16 +21,17 @@ Seed 参数
 ### 使用随机seed生成三次试试看:
 
 例子: `/imagine prompt` `celadon owl pitcher`
-||||
-|-|-|-|
+
+
 |![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom13.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom1.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom2.png)|
+|-|-|-|
 ### 指定seed生成两次试试看 `--seed 123`:
 
 例子: `/imagine prompt` `celadon owl pitcher --seed 123`
 
-|||
-|-|-|
+
 |![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)|
+|-|-|
 
 * * *
 
