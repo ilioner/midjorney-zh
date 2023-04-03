@@ -146,14 +146,14 @@ Midjourney在生成每个作业的低分辨率图像网格后，会使用Midjour
 |------------------|------------------------------|-----------------------------|-----------|--------------------|------------------------|--------------|------|
 | Max Aspect Ratio | ✓                            | ✓                           | any       | 1:2 or 2:1         | 5:2 or 2:5            | 3:2 or 2:3   | 1:2 or 2:1 |
 | Chaos            | ✓                            |                             | ✓         | ✓                  | ✓                      | ✓            | ✓    |
-| Image Weight     | ✓                            |                             | .5–2      |                    | any<br>default=.25     | ✓            |      |
+| Image Weight     | ✓                            |                             | .5–2      |       | any<br/>default=.25     | ✓            |      |
 | No               | ✓                            | ✓                           | ✓         | ✓                  | ✓                      | ✓            | ✓    |
 | Quality          | ✓                            |                             | ✓         | ✓                  | ✓                      |              | ✓    |
 | Seed             | ✓                            |                             | ✓         | ✓                  | ✓                      | ✓            | ✓    |
 | Sameseed         | ✓                            |                             |           |                    | ✓                      |              |      |
 | Stop             | ✓                            | ✓                           | ✓         | ✓                  | ✓                      | ✓            | ✓    |
 | Style            |                              |                             |           | 4a and 4b         |                        |              |      |
-| Stylize          | ✓                            |                             | 0–1000    | 0–1000<br>default=100 | 625–60000<br>default=2500 | 1250–5000<br>default=2500 |      |
+| Stylize          | ✓                            |                             | 0–1000    | 0–1000<br/>default=100 | 625–60000<br/>default=2500 | 1250–5000<br/>default=2500 |      |
 | Tile             | ✓                            | ✓                           | ✓         |                    | ✓                      |              |      |
 | Video            | ✓                            |                             |           |                    | ✓                      |              |      |
 | Number of Grid Images | -                        | -                           | 4         | 4                  | 4                      | 2 (1 when aspect ratio≠1:1) |      |
