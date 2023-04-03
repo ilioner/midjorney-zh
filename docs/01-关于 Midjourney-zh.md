@@ -8,6 +8,8 @@ __Midjourney-zh将分享人工智能和Midjourney的使用技巧、热词、生�
 
 除了分享人工智能的使用技巧外，Midjourney-zh还会分享每日Midjourney美图。我们希望通过这些美图能够让大家更好地感受到Midjourney所传递的美好和精神内涵。
 
+_重要的是，拒绝被那些博主，大V，知识星球进行大型收割。人人可学，公平分享_
+
 __Midjourney-zh不仅仅是一个学习平台，更是一个互动交流的社区。Midjourney-zh欢迎所有对人工智能和Midjourney的大佬和爱好者们加入我们的社区，一起分享、探讨人工智能的应用和发展方向。__
 
 
