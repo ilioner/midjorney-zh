@@ -23,69 +23,24 @@ Quality 设置
 
 ### Version 4
 
-##### `--quality .25`
+|`--quality .25`|`--quality .5`|`--quality 1`|
+|-|-|-|
+|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_025.jpg)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_05.jpg)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_1.jpg)|
+|-|`🔥 Half Quality`|`🔥 Base Quality`|
+|快，细节较少|细节较少|默认设定|
+|_4倍的速度提升和 ¼ 的GPU 时间消耗._|_2倍速 and ½  GPU 时间消耗._|_很好的权衡了速度与细节_|
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_025.jpg)
 
-`-`
-
-快，细节较少
-
-_4倍的速度提升和 ¼ 的GPU 时间消耗._
-
-##### `--quality .5`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_05.jpg)
-
-`🔥 Half Quality`
-
-细节较少
-
-_2倍速 and ½  GPU 时间消耗._
-
-##### `--quality 1`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_1.jpg)
-
-`🔥 Base Quality`
-
-默认设定
-
-_很好的权衡了速度与细节_
 
 ### Version 5
 
-##### `--quality .25`
+|`--quality .25`|`--quality .5`|`--quality 1`|
+|-|-|-|
+|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_025.jpg)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_05.jpg)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_1.jpg)|
+|-|`🔥 Half Quality`|`🔥 Base Quality`|
+|快，细节较少|细节较少|默认设定|
+|_4倍的速度提升和 ¼ 的GPU 时间消耗._|_2倍速 and ½  GPU 时间消耗._|_很好的权衡了速度与细节_|
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_025.jpg)
-
-`-`
-
-快，细节较少
-
-_4倍的速度提升和 ¼ 的GPU 时间消耗._
-
-##### `--quality .5`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_05.jpg)
-
-`🔥 Half Quality`
-
-细节较少
-
-_2倍速 and ½  GPU 时间消耗._
-
-##### `--quality 1`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V5_Quality_1.jpg)
-
-`🔥 Base Quality`
-
-默认设定
-
-_细节与速度的平衡_
-
-* * *
 
 ### 版本差异
 

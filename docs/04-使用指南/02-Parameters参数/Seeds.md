@@ -1,96 +1,71 @@
+---
+sidebar_position: 5
+---
+
+#### 每个图像的seed都是随机生成的，可以使用 `--seed` 或 `--sameseed` 参数进行指定。使用相同的seed和提示会生成结果相近的图像。
 
 
-#### The Midjourney bot uses a seed number to create a field of visual noise, like television static, as a starting point to generate the initial image grids. Seed numbers are generated randomly for each image but can be specified with the `--seed` or `--sameseed` parameter. Using the same seed number and prompt will produce similar ending images.
-
-*   `--seed` accepts whole numbers 0–4294967295.
-*   `--seed` values only influence the initial image grid.
-*   Identical `--seed` values using [Model Versions](https://docs.midjourney.com/models) `1`, `2`, `3`, `test`, and `testp` will produce images with similar composition, color, and details.
-*   Identical `--seed` values using [Model Versions](https://docs.midjourney.com/models) `4`, `5`, and `niji` will produce nearly identical images.
-*   Seed numbers are not static and should not be relied upon between sessions.
+* `--seed` 接受0-4294967295的整数。
+* `--seed` 的值只会影响初始图像网格。
+* 在使用[模型版本](https://docs.midjourney.com/models)1、2、3、test和testp时，相同的 `--seed` 值会生成具有类似构图、颜色和细节的图像。
+* 在使用[模型版本](https://docs.midjourney.com/models)4、5和niji时，相同的 `--seed` 值会产生几乎完全相同的图像。
+* 种子数字不是静态的，不能在会话中依赖它们。
 
 * * *
 
-Seed Parameter
+Seed 参数
 --------------
 
-If no Seed is specified, Midjourney will use a randomly generated seed number, producing a wide variety of options each time a prompt is used.
+如果没有指定seed，Midjourney都会使用不同的随机种子来生成图片，因此产生的图像会有很大的差异和多样性。
 
-### Jobs run three times with random seeds:
+### 使用随机seed生成三次试试看:
 
-prompt example: `/imagine prompt` `celadon owl pitcher`
+例子: `/imagine prompt` `celadon owl pitcher`
+||||
+|-|-|-|
+|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom13.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom1.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_SeedRandom2.png)|
+### 指定seed生成两次试试看 `--seed 123`:
 
-### Jobs run two times with `--seed 123`:
+例子: `/imagine prompt` `celadon owl pitcher --seed 123`
 
-prompt example: `/imagine prompt` `celadon owl pitcher --seed 123`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)
+|||
+|-|-|
+|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)|![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed-123_V4_.png)|
 
 * * *
 
-Sameseed Parameter
+Sameseed Parameter（v4 v5 用不上）
 ------------------
 
-`--seed` values create a single large random noise field applied across all images in the initial grid. When `--sameseed` is specified, all images in the initial grid use the same starting noise and will produce very similar generated images.
 
-`--sameseed` accepts whole numbers 0–4294967295.  
-`--sameseed` is only compatible with [Model Versions](https://docs.midjourney.com/models) `1`, `2`, `3`, `test`, and `testp`.
+使用`--seed`参数将创建一个单一的随机seed，并应用在所有的初始图像上。当使用`--sameseed`参数时，初始网格中的所有图像都使用相同的seed，并且生成的图像非常相似。
 
-##### Early visual noise from  
-`--sameseed`
+`--sameseed`参数只接受0-4294967295之间的整数。
+`--sameseed`参数仅适用于模型版本1、2、3、 `test`, 和 `testp`.
 
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Sameseed_Stop10.png)
 
-`--sameseed 12345`
 
-##### Finished Job made with  
-`--sameseed`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Sameseed.png)
-
-`--sameseed 12345`
-
-##### Early visual noise without  
-`--sameseed`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_seed_Stop10.png)
-
-`--seed 12345`
-
-##### Finished Job made without  
-`--sameseed`
-
-![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_seed.png)
-
-`--seed 12345`
-
-* * *
-
-How to Find a Job's Seed Number
+在哪里看seed值呢
 -------------------------------
 
-### Use a Discord Emoji Reaction
+### 
 
-Find the seed number of a Job in discord by reacting with an ✉️ envelope emoji to a Job.
+对作业（Job）添加✉️信封图标来查找工作的seed。
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_JobID_EmojiReact.gif)
 
-### Use The Show Command to Bring Back Old Jobs
+### 
 
-To get the seed number for a past image, [copy the job ID](https://docs.midjourney.com/docs/show-job) and use the `/show <Job ID #>` command with that ID to revive the Job. You can then react to the newly regenerated Job with an ✉️ envelope emoji.
+要获取之前图像的seed，请[复制Job ID](https://docs.midjourney.com/docs/show-job)，结合该ID使用`/show <Job ID #>`命令来恢复作业。然后，可以对新生成的工作添加✉️信封表情符号来获取工作的种子号码。
 
 * * *
 
-How To Change Seed Numbers
+如何修改seed值
 --------------------------
 
-### Use the `--seed` or `--sameseed` Parameter
+### 
 
-Add `--seed <value>` or `--sameseed <value>` to the end of your prompt.
+添加 `--seed <值>` or `--sameseed <值>` 在提示末尾.
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Seed_Gif.gif)
 
-A **Job** is any action that uses the Midjourney Bot. **Jobs** include using `/imagine` to create an initial image grid, upscaling images, and creating variations of images.
-
-Was this article helpful?
