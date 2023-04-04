@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-#### 即使是简短的单词提示，Midjourney的默认样式也能够生成美丽的图像，但是通过结合艺术形式、历史时期、地点等概念，您可以创建更加有趣和个性化的结果。
+#### 哪怕是简短的单词提示，Midjourney的默认样式也能够生成美丽的图像，但是通过结合艺术形式、历史时期、地点等概念，可以创建更加有趣和个性化的结果。
 
 * * *
 
@@ -68,7 +68,7 @@ sidebar_position: 2
   <tr>
     <th>Life Drawing<br/>素描写生</th>
     <th>Continuous Line<br/>连续线条</th>
-    <th>Loose Gestural<br/>大手笔风格</th>
+    <th>Loose Gestural<br/>自由风格</th>
     <th>Blind Contour<br/>盲画</th>
   </tr>
   <tr>
