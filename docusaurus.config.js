@@ -94,8 +94,8 @@ const config = {
             position: 'left',
             type: "doc",
             label: "关键字手册",
-            docId: "prompt/时代关键字",
-            to: '/prompt/时代关键字',
+            docId: "prompt/艺术家风格",
+            to: '/prompt/艺术家风格',
           }
           // {
           //   href: 'https://github.com/facebook/docusaurus',
