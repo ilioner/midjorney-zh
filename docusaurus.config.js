@@ -84,11 +84,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '关于 Midjourney-zh', 
+            docId: 'documents/关于 Midjourney-zh', 
             label: '入门教程', 
             position: 'left',
-            to: '/docs/01-关于 Midjourney-zh',
+            to: '/documents/01-关于 Midjourney-zh',
           },
+          
+          {
+            position: 'left',
+            type: "doc",
+            label: "关键字手册",
+            docId: "prompt/时代关键字",
+            to: '/prompt/时代关键字',
+          }
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

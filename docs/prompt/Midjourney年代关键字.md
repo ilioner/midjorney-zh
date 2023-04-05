@@ -1,0 +1,118 @@
+ ---
+sidebar_position: 0
+---
+
+
+这是一个长长的艺术家名单，包括了各种时期和风格的艺术家：
+
+- Giotto Di Bondone
+- Andrei Rublev
+- Jan van Eyck
+- Fra Angelico
+- Rogier van der Weyden
+- Jean Fouquet
+- Sandro Botticelli
+- Hieronymus Bosch
+- Leonardo da Vinci
+- Albrecht Dürer
+- Michelangelo
+- Raphael Sanzio
+- Titian
+- Hans Holbein the Younger
+- Tintoretto
+- Pieter Bruegel the Elder
+- Giuseppe Arcimboldo
+- Sofonisba Anguissola
+- El Greco
+- Caravaggio
+- Peter Paul Rubens
+- Frans Hals
+- Artemisia Gentileschi
+- Nicolas Poussin
+- Gian Lorenzo Bernini
+- Diego Velázquez
+- Rembrandt
+- Judith Leyster
+- Jan Vermeer
+- Elisabetta Sirani
+- William Hogarth
+- Francois Boucher
+- Joshua Reynolds
+- Thomas Gainsborough
+- Jean-Honore Fragonard
+- George Romney
+- Angelica Kauffmann
+- Francisco Goya
+- Jacques-Louis David
+- Adelaide Labille-Guiard
+- Élisabeth Vigée Le Brun
+- Henry Raeburn
+- Katsushika Hokusai
+- John Opie
+- Marie Ellenrieder
+- George Catlin
+- Utagawa Hiroshige
+- Eugene Delacroix
+- Rosa Bonheur
+- Jean-Léon Gérôme
+- William-Adolphe Bouguereau
+- William Holman Hunt
+- Dante Gabriel Rossetti
+- John Everett Millais
+- Elizabeth Siddal
+- Frederic Leighton
+- Édouard Manet
+- Edgar Degas
+- Winslow Homer
+- Paul Cézanne
+- Claude Monet
+- Berthe Morisot
+- Pierre-Auguste Renoir
+- Pedro Américo
+- Mary Cassatt
+- Jules Bastien-Lepage
+- Paul Gauguin
+- Viktor Vasnetsov
+- John William Waterhouse
+- Edmund Leighton
+- Vincent van Gogh
+- Edouard Bisson
+- Evelyn de Morgan
+- Georges Seurat
+- Gustav Klimt
+- Gaston Bussière
+- Wassily Kandinsky
+- Henri Matisse
+- Maxfield Parrish
+- Piet Mondrian
+- Frederick Carl Frieseke
+- Paula Modersohn-Becker
+- Ivan Bilibin
+- Sir William Russell Flint
+- Pablo Picasso
+- Georges Braque
+- Edward Hopper
+- Amedeo Modigliani
+- Diego Rivera
+- Tarsila do Amaral
+- Georgia O'Keeffe
+- Egon Schiele
+- René Magritte
+- Tamara de Lempicka
+- Alice Neel
+- Mark Rothko
+- Salvador Dalí
+- Frida Kahlo
+- Lee Krasner
+- Jackson Pollock
+- Roy Lichtenstein
+- Andy Warhol
+- Helen Frankenthaler
+- Yayoi Kusama
+- Pino Daeni
+- Keith Haring
+- Jean-Michel Basquiat
+- Takashi Murakami
+- Romero Britto
+- Banksy
+- Roberto Ferri

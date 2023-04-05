@@ -1,3 +1,4 @@
 {
-    "codeium.enableSearch": true
+    "codeium.enableSearch": true,
+    "editor.wordWrapColumn": 80
 }
