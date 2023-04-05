@@ -43,7 +43,7 @@ sidebar_position: 2
 
 Midjourney Bot 并不能像人一样理解语言。例如，桃子 emoji 🍑 目前是一个被禁止的词语，而提示词语 "beautiful 🍑 orchard" 将会触发禁止词语过滤器。没人会认为桃树林是冒犯或不适合在工作中查看的。然而，🍑 emoji 在某些俚语中也指屁股，也常与不适合的场合查看的图片相关联，因此“beautiful 🍑 orchard”这个提示词的实际结果可能比起初看来更具问题性。
 
-![](../assets/doc/midjourney/MJ_banned_prompt_popup.png)
+![](../../assets/doc/midjourney/MJ_banned_prompt_popup.png)
 
 
 如果用户反复违反服务条款，可能会面临被社区管理员警告，被禁止访问机器人，或被禁止使用该服务的风险。

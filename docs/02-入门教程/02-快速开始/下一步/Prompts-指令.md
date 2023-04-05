@@ -11,14 +11,14 @@ sidebar_position: 1
 
 一个基本的提示可以只是一个单词、短语或表情符号。
 
-![](../../assets/doc/Midjourney_Prompts/MJ_Prompt_basic.png)
+![](../../../assets/doc/Midjourney_Prompts/MJ_Prompt_basic.png)
 
 ### 高级 Prompts
 
 
 更高级的Prompts可以包括一个或多个 [图片URL](https://docs.midjourney.com/image-prompts)，[多个文本短语](https://docs.midjourney.com/multi-prompts)，以及一个或多个 [参数](https://docs.midjourney.com/parameter-list)。
 
-![](../../assets/doc/Midjourney_Prompts/MJ_20Prompt.png)
+![](../../../assets/doc/Midjourney_Prompts/MJ_20Prompt.png)
 
 `Image Prompts` 
 

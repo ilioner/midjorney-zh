@@ -82,21 +82,27 @@ const config = {
           src: 'img/micon.png',
         },
         items: [
+          
           {
             type: 'doc',
-            docId: 'documents/关于 Midjourney-zh', 
+            docId: '入门教程/快速开始/Midjourney', 
             label: '入门教程', 
             position: 'left',
-            to: '/documents/01-关于 Midjourney-zh',
+            to: '/docs/入门教程/快速开始/Midjourney',
           },
-          
           {
             position: 'left',
             type: "doc",
             label: "关键字手册",
-            docId: "prompt/艺术家风格",
-            to: '/prompt/艺术家风格',
-          }
+            docId: "关键字/艺术家风格",
+            to: '/docs/关键字/艺术家风格',
+          },{
+            type: 'doc',
+            docId: '关于 Midjourney-zh', 
+            label: '关于', 
+            position: 'left',
+            to: '/docs/01-关于 Midjourney-zh',
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -112,7 +118,7 @@ const config = {
             items: [
               {
                 label: 'Midjourney',
-                to: '/docs/快速开始/Midjourney',
+                to: '/docs/入门教程/快速开始/Midjourney',
               },
             ],
           },

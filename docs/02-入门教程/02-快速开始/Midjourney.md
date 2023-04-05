@@ -23,13 +23,13 @@ sidebar_position: 1
 在加入 Midjourney 的 Discord 服务器之前，你必须有一个 Discord 账号。  
 [点击这里了解如何创建一个账号](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started).
 
-![](../assets/doc/midjourney/10008.png)
+![](../../assets/doc/midjourney/10008.png)
 
 
 **2:** 加入一个  _Newbies（新手）_ 频道
 -------------------------------
 
-![](../assets/doc/midjourney/10001.png)
+![](../../assets/doc/midjourney/10001.png)
 
 ### Midjourney官方服务区
 
@@ -56,7 +56,7 @@ sidebar_position: 1
 
 如果您想要了解更多关于社区准则的内容，请点击链接查看详细的文档 [Community Guidelines](https://docs.midjourney.com/community-guidelines).
 
-![](../assets/doc/midjourney/10002.gif)
+![](../../assets/doc/midjourney/10002.gif)
 
 
 这是一些关于如何解决使用`/imagine` 指令时遇到的问题的建议。如果您在输入`/imagine` 指令时没有看到弹出窗口，请尝试退出登录，更新Discord应用程序，然后重新登录。
@@ -68,7 +68,7 @@ sidebar_position: 1
 
 ### Midjourney Bot 大约需要一分钟来生成四个可供选择的图像.
 
-![](../assets/doc/midjourney/10003.gif)
+![](../../assets/doc/midjourney/10003.gif)
 
 
 生成图像会激活Midjourney免费的试用。试用用户可以在需要订阅之前进行大约25次任务。
@@ -82,7 +82,7 @@ sidebar_position: 1
 
 ### 在初始图像网格生成完成后，会出现两行按钮:
 
-![](../assets/doc/midjourney/10004.png)
+![](../../assets/doc/midjourney/10004.png)
 `U1` `U2` `U3` `U4`
 
 U按钮[升级](https://docs.midjourney.com/upscalers)图像质量，生成选定图像的较大尺寸版本并优化更多细节呈现。
@@ -101,7 +101,7 @@ V按钮将对选定网格图像的进行细微变体的生成。创建变体后�
 
 ### 使用了U按钮对图像进行升级后，会出现一组新的按钮选项。
 
-![](../assets/doc/midjourney/10005.png)
+![](../../assets/doc/midjourney/10005.png)
 
 `🪄 Make Variations` `🔍 Light Upscale Redo` `🔍 Beta Upscale Redo` `↗️Web`
 
@@ -130,7 +130,7 @@ Web：在[Midjourney.com](https://www.midjourney.com/home/)上打开生成的图
 获取价格和更多信息，请访问[订阅计划](https://docs.midjourney.com/plans)。
 
 
-![](../assets/doc/midjourney/10006.png)
+![](../../assets/doc/midjourney/10006.png)
 有必要再次提醒下
 
 请确保您使用的是现有的Discord帐户进行登录。因为很容易一不小心创建一个新帐户。
@@ -172,7 +172,7 @@ Prompts 是 Midjourney Bot 中的一种指令，用于启动一项新的任务�
 `/ask` 获取问题的答案。
 
 
-![](../assets/doc/midjourney/10007.png)
+![](../../assets/doc/midjourney/10007.png)
 
 
 如果需要更多帮助，可以访问Midjourney Discord上的 [#trial-Support](https://discord.com/channels/662267976984297473/989981349777637446) 频道。

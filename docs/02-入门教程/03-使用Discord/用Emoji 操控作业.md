@@ -13,7 +13,7 @@ sidebar_position: 3
 通过对Midjourney Jobs的操作馈，你可以轻松地控制哪些图像被发送和删除。
 
 
-![IW_EmojiReact.png](../assets/doc/midjourney/IW_EmojiReact.png)
+![IW_EmojiReact.png](../../assets/doc/midjourney/IW_EmojiReact.png)
 
   
 
@@ -24,4 +24,4 @@ sidebar_position: 3
 
 ✉️ 反应仅适用于你自己的作业。
 
-![MJ_EnvelopeResults.png](../assets/doc/midjourney/MJ_EnvelopeResults.png)
+![MJ_EnvelopeResults.png](../../assets/doc/midjourney/MJ_EnvelopeResults.png)

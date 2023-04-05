@@ -19,7 +19,7 @@ sidebar_position: 4
 
  `/blend` 提示的结尾添加[自定义后缀](https://docs.midjourney.com/v1/docs/settings-and-presets)与 `/imagine` 命令一样。如果 `/blend` 命令中指定的长宽比与自定义后缀中的长宽比不同，则以 `/blend` 命令中指定的长宽比为准。
 
-![](../../assets/doc/midjourney/MJ_Blend_Interface.png)
+![](../../../assets/doc/midjourney/MJ_Blend_Interface.png)
 
 
 混合提示
@@ -31,5 +31,5 @@ sidebar_position: 4
 如何使用 `/blend`
 -------------------
 
-![](../../assets/doc/midjourney/MJ_Blend.gif)
+![](../../../assets/doc/midjourney/MJ_Blend.gif)
 

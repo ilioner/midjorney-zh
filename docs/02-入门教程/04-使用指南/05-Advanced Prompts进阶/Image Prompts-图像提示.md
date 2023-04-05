@@ -44,15 +44,15 @@ sidebar_position: 1
 
 ### Midjourney Model Version 4
 
-![](../../assets/doc/imgp/1111.png)
-![](../../assets/doc/imgp/22222.png)
+![](../../../assets/doc/imgp/1111.png)
+![](../../../assets/doc/imgp/22222.png)
 
 * * *
 
 ### Midjourney Model Version 5
 
-![](../../assets/doc/imgp/33333.png)
-![](../../assets/doc/imgp/44444.png)
+![](../../../assets/doc/imgp/33333.png)
+![](../../../assets/doc/imgp/44444.png)
 
 
 * * *

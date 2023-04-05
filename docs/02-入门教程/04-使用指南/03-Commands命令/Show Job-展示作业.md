@@ -24,7 +24,7 @@ Job ID 是 Midjourney 生成的每个图像使用的唯一标识符。作业 ID 
 
 您可以通过选择 `... >` `Copy... >` `作业 ID` 来在你作品库中找到任何图像的作业 ID。
 
-![](../../assets/doc/midjourney/MJ_JobID_app.png)
+![](../../../assets/doc/midjourney/MJ_JobID_app.png)
 
 ### From The URL-从URL中查找Job ID
 
@@ -32,7 +32,7 @@ Job ID 是 Midjourney 生成的每个图像使用的唯一标识符。作业 ID 
 
 **https://www.midjourney.com/app/users/381590592095911946/?jobId=9333dcd0-681e-4840-a29c-801e502ae424.**
 
-![](../../assets/doc/midjourney/MJ_JobID_web.png)
+![](../../../assets/doc/midjourney/MJ_JobID_web.png)
 
 ### From The File Name-在文件名中查找
 
@@ -41,7 +41,7 @@ Job ID 是 Midjourney 生成的每个图像使用的唯一标识符。作业 ID 
 
 **User_cat_cloud_spirit_9333dcd0-681e-4840-a29c-801e502ae424.png**
 
-![](../../assets/doc/midjourney/MJ_JobID_fileName.png)
+![](../../../assets/doc/midjourney/MJ_JobID_fileName.png)
 
 ### [使用Discord的 Emoji转发消息](https://docs.midjourney.com/v1/docs/discord-emoji-reactions)
 
@@ -56,7 +56,7 @@ How to Use Show-如何使用Show命令
 
 在任何一个频道使用 `/show <Job ID #>` 来查看指定作业.
 
-![](../../assets/doc/midjourney/MJ_Command_show.gif)
+![](../../../assets/doc/midjourney/MJ_Command_show.gif)
 
 **Bot Channels** are Discord channels where the Midjourney Bot has been permitted to process Slash Commands. On the official Midjourney Discord, all channels in the **Newcomer Rooms**, **Thread Channels**, **Themed Image Gen**, and **General Image Gen** categories are Bot Channels.
 
