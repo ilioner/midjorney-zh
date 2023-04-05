@@ -60,7 +60,7 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-        googleAnalytics: {
+        gtag: {
           trackingID: 'G-87KFMSNEF4',
           anonymizeIP: true,
         },
