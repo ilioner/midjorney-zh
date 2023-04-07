@@ -32,7 +32,9 @@ Midjourney Bot将提示中的单词和短语分解成更小的部分来生成图
   },
 ];
 
-function Feature({Svg, title, description}) {
+
+function Feature({Svg, title, description,idx}) {
+  
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

@@ -98,10 +98,10 @@ const config = {
             to: '/docs/关键字/艺术家风格',
           },{
             type: 'doc',
-            docId: '关于 Midjourney-zh', 
+            docId: '关于Midjourney-zh', 
             label: '关于', 
             position: 'left',
-            to: '/docs/01-关于 Midjourney-zh',
+            to: '/docs/01-关于Midjourney-zh',
           },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
