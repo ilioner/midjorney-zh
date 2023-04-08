@@ -89,7 +89,7 @@ function clickAction(idx) {
     url = document.URL + "docs/入门教程/快速开始/Midjourney";
   }
   if(idx == 1){
-    url = document.URL + "docs/关键字/艺术家风格";
+    url = document.URL + "docs/关键字/关键字公式";
   }
   if(idx == 2){
     url = document.URL + "docs/关于Midjourney-zh";
