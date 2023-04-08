@@ -94,8 +94,8 @@ const config = {
             position: 'left',
             type: "doc",
             label: "关键字手册",
-            docId: "关键字/艺术家风格",
-            to: '/docs/关键字/艺术家风格',
+            docId: "关键字/关键词公式",
+            to: '/docs/关键字/关键词公式',
           },{
             type: 'doc',
             docId: '关于Midjourney-zh', 
