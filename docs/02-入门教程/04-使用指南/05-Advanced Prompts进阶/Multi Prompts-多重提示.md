@@ -30,15 +30,6 @@ Multi-Prompt 基础
 Prompt 权重
 --------------
 
-When a double colon `::` is used to separate a prompt into different parts, you can add a number immediately after the double colon to assign the relative importance to that part of the prompt.
-
-In the example below, the prompt `hot:: dog` produced a dog that is hot. Changing the prompt to `hot::2 dog` makes the word **hot** twice as important as the word dog, producing an image of a dog that is _very hot!_
-
-[Model Versions] `1`, `2`, `3` only accept whole numbers as weights  
-[Model Versions] `4` can accept decimal places for weights  
-Non-specified weights default to 1.
-
-
 当使用双冒号`::`将一个提示分成不同的部分时，可以在双冒号后面立即添加一个数字，用以指定该提示部分的相对权重。
 
 以下是一个例子：如果提示为 `hot:: dog`，则会产生一张被热气笼罩的狗的图片。但若更改为 `hot::2 dog`，这意味着单词`hot`比单词`dog`重要度高出两倍，因此将生成一张热冒火的狗。

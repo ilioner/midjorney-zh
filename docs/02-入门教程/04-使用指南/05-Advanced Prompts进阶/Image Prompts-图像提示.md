@@ -60,11 +60,6 @@ sidebar_position: 1
 Image 权重参数
 ----------------------
 
-Use the image weight parameter `--iw` to adjust the importance of the image vs. text portion of a prompt. The default value is used when no `--iw` is specified. Higher `--iw` values mean the image prompt will have more impact on the finished job.
-
-See the [Multi Prompts](https://docs.midjourney.com/multi-prompts) page for more information about the relative importance between parts of a prompt.
-
-Different [Midjourney Version Models](https://docs.midjourney.com/models) have different image weight ranges.
 
 使用图像权重参数 `--iw` 来调整提示中图像与文本部分的权重比。如果未指定 `--iw`，则使用默认值。较高的 `--iw` 值意味着图像提示将在作业中具有更大的权重。
 
